@@ -1,1 +1,2 @@
-# CCDC_Static_Contents
+# CCDC Static Contents
+Repository for saving CCDI Hub website static contents.
