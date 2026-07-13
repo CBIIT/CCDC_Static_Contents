@@ -20,7 +20,6 @@ Additional details are listed below:
 - **15** Programs
 - **1** Project
 - **5** Registries
-
 ### Data Updates
 
 #### New Resources and Datasets
@@ -138,7 +137,6 @@ Additional details are listed below:
 - **14** Programs
 - **1** Project
 - **5** Registries
-
 ### Data Updates
 
 #### New Resources
@@ -231,7 +229,6 @@ Additional details are listed below:
 - **14** Programs
 - **1** Project
 - **5** Registries
-
 ### Data Updates
 
 #### New Resources
@@ -383,7 +380,6 @@ Additional details are listed below:
 - **14** Programs
 - **1** Project
 - **5** Registries
-
 ### Data Updates
 
 #### New Resources
@@ -451,7 +447,6 @@ Additional details are listed below:
 - **13** Programs
 - **1** Project
 - **5** Registries
-
 ### Data Updates
 
 #### Existing Participating Resources and Datasets
@@ -540,7 +535,6 @@ Additional details are listed below:
 - **13** Programs
 - **1** Project
 - **5** Registries
-
 ### Data Updates
 
 #### New Resources
