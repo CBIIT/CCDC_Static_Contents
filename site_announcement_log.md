@@ -10,14 +10,15 @@ Version 1.5.9 of the Childhood Cancer Data Initiative Data Catalog includes 6 ne
 - **35th** Release
 - **450** Datasets
 - **89** Resources
-- **25** Analytical Tools
-- **8** Biorepositories
-- **8** Catalogs
-- **22** Data Repositories
-- **5** Knowledgebases
-- **15** Programs
-- **1** Project
-- **5** Registries
+  - **25** Analytical Tools
+  - **8** Biorepositories
+  - **8** Catalogs
+  - **22** Data Repositories
+  - **5** Knowledgebases
+  - **15** Programs
+  - **1** Project
+  - **5** Registries
+
 ### Data Updates
 
 #### New Resources and Datasets
@@ -125,14 +126,15 @@ Version 1.5.8 of the Childhood Cancer Data Initiative Data Catalog adds 15 new r
 - **34th** Release
 - **431** Datasets
 - **83** Resources
-- **24** Analytical Tools
-- **6** Biorepositories
-- **8** Catalogs
-- **21** Data Repositories
-- **4** Knowledgebases
-- **14** Programs
-- **1** Project
-- **5** Registries
+  - **24** Analytical Tools
+  - **6** Biorepositories
+  - **8** Catalogs
+  - **21** Data Repositories
+  - **4** Knowledgebases
+  - **14** Programs
+  - **1** Project
+  - **5** Registries
+
 ### Data Updates
 
 #### New Resources
@@ -215,14 +217,15 @@ The first release of the Childhood Cancer Data Initiative Data Catalog in 2026 i
 - **33rd** Release
 - **412** Datasets
 - **68** Resources
-- **11** Analytical Tools
-- **6** Biorepositories
-- **8** Catalogs
-- **20** Data Repositories
-- **3** Knowledgebases
-- **14** Programs
-- **1** Project
-- **5** Registries
+  - **11** Analytical Tools
+  - **6** Biorepositories
+  - **8** Catalogs
+  - **20** Data Repositories
+  - **3** Knowledgebases
+  - **14** Programs
+  - **1** Project
+  - **5** Registries
+
 ### Data Updates
 
 #### New Resources
@@ -364,14 +367,15 @@ The latest release of the Childhood Cancer Data Initiative Data Catalog features
 - **32nd** Release
 - **364** Datasets
 - **65** Resources
-- **9** Analytical Tools
-- **6** Biorepositories
-- **8** Catalogs
-- **19** Data Repositories
-- **3** Knowledgebases
-- **14** Programs
-- **1** Project
-- **5** Registries
+  - **9** Analytical Tools
+  - **6** Biorepositories
+  - **8** Catalogs
+  - **19** Data Repositories
+  - **3** Knowledgebases
+  - **14** Programs
+  - **1** Project
+  - **5** Registries
+
 ### Data Updates
 
 #### New Resources
@@ -429,14 +433,15 @@ Version 1.5.5 of the Childhood Cancer Data Initiative Data Catalog features data
 - **31st** Release
 - **363** Datasets
 - **64** Resources
-- **9** Analytical Tools
-- **6** Biorepositories
-- **8** Catalogs
-- **19** Data Repositories
-- **3** Knowledgebases
-- **13** Programs
-- **1** Project
-- **5** Registries
+  - **9** Analytical Tools
+  - **6** Biorepositories
+  - **8** Catalogs
+  - **19** Data Repositories
+  - **3** Knowledgebases
+  - **13** Programs
+  - **1** Project
+  - **5** Registries
+
 ### Data Updates
 
 #### Existing Participating Resources and Datasets
@@ -515,14 +520,15 @@ The 30th release of the Childhood Cancer Data Initiative Data Catalog continues 
 - **30th** Release
 - **362** Datasets
 - **64** Resources
-- **9** Analytical Tools
-- **6** Biorepositories
-- **8** Catalogs
-- **19** Data Repositories
-- **3** Knowledgebases
-- **13** Programs
-- **1** Project
-- **5** Registries
+  - **9** Analytical Tools
+  - **6** Biorepositories
+  - **8** Catalogs
+  - **19** Data Repositories
+  - **3** Knowledgebases
+  - **13** Programs
+  - **1** Project
+  - **5** Registries
+
 ### Data Updates
 
 #### New Resources
