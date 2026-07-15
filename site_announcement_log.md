@@ -3,8 +3,6 @@
 
 Version 1.5.9 of the Childhood Cancer Data Initiative Data Catalog includes 6 new resources with new datasets, 15 new datasets from existing resources, and some added links to analytic tools in existing resources. Changes to content, color contrast, and alt text were made to the About CCDI Catalog page for improved accessibility and 508 compliance. The User Guide is current with version 1.5.9 updates and relevant terms were added to the Glossary.
 
-Additional details are listed below:
-
 ### Statistics at a Glance
 
 #### v1.5.9 Summary
@@ -120,8 +118,6 @@ Version 1.5.8 of the Childhood Cancer Data Initiative Data Catalog adds 15 new r
 
 *Edited 6/10/2026 to correct typo and missing dataset in 1.5.8 introductory paragraph*
 
-Additional details are listed below:
-
 ### Statistics at a Glance
 
 #### v1.5.8 Summary
@@ -211,8 +207,6 @@ Users requiring any additional support or with any questions about the CCDC can 
 ### February 19, 2026 | Release Notes
 
 The first release of the Childhood Cancer Data Initiative Data Catalog in 2026 is overflowing with new resources, new datasets, and updates to existing resources and datasets. New resources added to version 1.5.7 include the CONCORD\*Explorer, NF Data Portal, and scMINER, boasting a combined 16 new datasets. 32 new datasets have also been added to six existing resources with notable additions to cBioPortal, Gene Expression Omnibus (GEO), and dbGaP. Eight additional studies have been updated with respect to counts, dbGaP accessions, or references, and PDX AIM was renamed to PDX INSIGHTS. Functional enhancements include the addition of “Available Files” links to download clinical data for more TARGET datasets and updates to the Participating Resources page to adhere to 508 compliance best practices. The User Guide was updated to reflect version 1.5.7 changes.
-
-Additional details are listed below:
 
 ### Statistics at a Glance
 
@@ -363,8 +357,6 @@ Users requiring any additional support or with any questions about the CCDC can 
 
 The latest release of the Childhood Cancer Data Initiative Data Catalog features the annual update to the GENIE dataset, one additional updated dataset, and a new resource with a new dataset – Pediatric Cancer Registry from the Florida Association of Pediatric Tumor Programs (FAPTP). The Glossary page was updated to adhere to 508 compliance best practices and a new field was added to the resource digests to distinguish between person and website contacts for each resource. The User Guide was updated to reflect the added resource and other update dates for version 1.5.6.
 
-Additional details are listed below:
-
 ### Statistics at a Glance
 
 #### v1.5.6 Summary
@@ -429,8 +421,6 @@ Users requiring any additional support or with any questions about the CCDC can 
 ### November 19, 2025 | Release Notes
 
 Version 1.5.5 of the Childhood Cancer Data Initiative Data Catalog features dataset updates to counts, disease lists, publications, and URLs, and one new dataset – Childhood Cancer Data Initiative (CCDI): Texas Pediatric Patient Derived Xenograft. Two pages were updated for 508 best practices, and some additional stylistic updates were made to provide a more consistent experience for users. The “Site Updates” page was renamed “Release Notes” to better describe the information displayed there and improvements were made to the organization and description of some of the page contents and features. The User Guide was updated to reflect the latest resource update dates.
-
-Additional details are listed below:
 
 ### Statistics at a Glance
 
@@ -518,8 +508,6 @@ The 30th release of the Childhood Cancer Data Initiative Data Catalog continues 
 
 *Edited 11/19/2025 to correct error in 1.5.4 dataset count*
 
-Additional details are listed below:
-
 ### Statistics at a Glance
 
 #### v1.5.4 Summary
@@ -588,8 +576,6 @@ Users requiring any additional support or with any questions about the CCDC can 
 ### July 8, 2025 | Release Notes
 
 The July 2025 release of the Childhood Cancer Data Initiative Data Catalog features 13 new datasets from three existing resources: cBioPortal, Childhood Cancer Data Initiative, and dbGaP. Counts were updated for eight resources, and additional updates were made to the Patient-Derived Xenograft and Advanced In Vivo Models and the World Health Organization - International Agency for Research on Cancer resources. The User Guide has been updated to reflect all data updates.
-
-Additional details are listed below:
 
 ### Data Updates
 
@@ -668,8 +654,6 @@ Users requiring any additional support or with any questions about the CCDC can 
 ### May 8, 2025 | Release Notes
 
 The May 2025 Childhood Cancer Data Initiative Data Catalog (CCDC) release features updated counts and resource details for many resources and four new datasets: CBTRUS Fact Sheet 2024, Childhood Cancer Data Initiative (CCDI): Pediatric In Vivo Testing Program - Neuroblastoma, GENIE Cohort v17.0-public, and IDC’s Pediatric-CT-SEG. A fifth new dataset has been added along with a new resource: the Childhood Cancer Catalog of Extrachromosomal DNA. The footer has been updated for consistent styling and user experience across NCI CCDI applications and help text was added to the About page to provide information for citing the Data Catalog. Detailed updates are below.
-
-Additional details are listed below:
 
 ### Data Updates
 
@@ -783,8 +767,6 @@ Users requiring any additional support or with any questions about the CCDC can 
 
 The first Childhood Cancer Data Initiative Data Catalog release of 2025 includes two new datasets: Genomic Profiling of Pediatric B-cell Acute Lymphoblastic Leukemia from dbGaP and the NCTN Biobanks dataset from the newly added resource, NCI National Clinical Trials Network (NCTN) Biobanks. Dataset counts have been updated for datasets from several resources, including Kids First Data Resource, St. Jude Cloud, and The Cancer Imaging Archive. Sample and other counts have been updated for NCTN Navigator, PDX for Childhood Cancer Therapeutics, and The Cancer Proteome Atlas. Additional updates include addition of a banner to the page header to notify users they are accessing an official website of the United States government and substantial updates to figures and content in the user guide to more accurately describe the current state of the application. Detailed updates are below.
 
-Additional details are listed below:
-
 ### Data Updates
 
 #### New Resources
@@ -856,8 +838,6 @@ Users requiring any additional support or with any questions about the CCDC can 
 
 The December Catalog release includes the addition of two new resources—the Specimen Resource Locator and the Pediatric Malignancies: Inventory of DCEG Research—alongside eight new datasets from existing resources: Cancer Research Institute iAtlas Pancancer Analysis of Whole Genomes (PCAWG) and The Cancer Genome Atlas Program (TCGA); cBioPortal’s Pediatric European MAPPYACTS Trial, Gastrointestinal Stromal Tumors, and Mature B-Cell Neoplasms; Imaging Data Commons CCDI Molecular Characterization Initiative (MCI); and Single-cell Pediatric Cancer Atlas (ScPCA) Single-cell RNA sequencing of diverse pediatric leukemias, and Identification of drug-resistance-related cell states in paired pre- and post-treatment neuroblastoma PDXs. Updates were also made to CCDI’s NCCR Data Platform description, titles for two ScPCA datasets, and counts for numerous datasets. Two new features were added, the first to enable users to download all dataset digests from the user interface menu, and the second to link to available TARGET datasets in dbGaP. Finally, the Site Updates page was redesigned to improve a better and more consistent experience across CCDI resources. Detailed updates are described below.
 
-Additional details are listed below:
-
 ### Data Updates
 
 #### New Resources
@@ -926,7 +906,7 @@ Additional details are listed below:
     - Therapeutically Applicable Research to Generate Effective Treatments (TARGET)
 - Imaging Data Commons (IDC)
 
-  - **New Dataset** – CCDI Molecular Characterization Initiative (MCI)
+  - **New Dataset** – CCDI Molecular Characterization Initiative (MCI)
 - Kids First Data Resource
 
   - Updated counts for multiple datasets:
@@ -980,16 +960,14 @@ Users requiring any additional support or with any questions about the CCDC can 
 # A New Season of Data
 ### September 25, 2024 | Release Notes
 
-September’s release includes updates to several existing resources and the addition of five new datasets: CCDI’s National Childhood Cancer Registry Data Platform and dbGaP’s Exploring the Microbiome-Gut-Brain Axis with Respect to Psychoneurological Symptoms for Children with Solid Tumors, Correlative Studies for Protocol #14-C-0059: T Cells Expressing an Anti-GD2 Chimeric Antigen Receptor in Patients with GD2+ Solid Tumors, a Collaboration with CIMAC-CIDC, Aberrant  Activation of Wound Healing Programs within the Metastatic Niche Facilitates Lung Colonization by Osteosarcoma Cells, and Early Detection of Malignant and Pre-Malignant Peripheral Nerve Tumors Using Cell-Free DNA Fragmentomics. Counts were updated for the Human Cancer Models Initiative (HCMI) and Pediatric Cancer Data Commons (PCDC) resources, and clinical trial lists were added to multiple datasets for the Biopathology Center (BPC). Additional changes were made to repository links, resource URLs, and reference links. No new features were added in this release.
+September’s release includes updates to several existing resources and the addition of five new datasets: CCDI’s National Childhood Cancer Registry Data Platform and dbGaP’s Exploring the Microbiome-Gut-Brain Axis with Respect to Psychoneurological Symptoms for Children with Solid Tumors, Correlative Studies for Protocol #14-C-0059: T Cells Expressing an Anti-GD2 Chimeric Antigen Receptor in Patients with GD2+ Solid Tumors, a Collaboration with CIMAC-CIDC, Aberrant  Activation of Wound Healing Programs within the Metastatic Niche Facilitates Lung Colonization by Osteosarcoma Cells, and Early Detection of Malignant and Pre-Malignant Peripheral Nerve Tumors Using Cell-Free DNA Fragmentomics. Counts were updated for the Human Cancer Models Initiative (HCMI) and Pediatric Cancer Data Commons (PCDC) resources, and clinical trial lists were added to multiple datasets for the Biopathology Center (BPC). Additional changes were made to repository links, resource URLs, and reference links. No new features were added in this release.
 Detailed updates are described below.
-
-Additional details are listed below:
 
 ### Data Updates
 
 #### Existing Participating Resources and Datasets
 
-**8**existing resources have been updated with additionaldata and information.
+**8** existing resources have been updated with additional data and information.
 
 - The Biopathology Center (BPC)
 
@@ -1036,7 +1014,7 @@ General Site Updates
 
 Additional Support and Inquiries
 
-Users requiring any additional support or with any questions about the CCDC can contact the Childhood Cancer Data Initiative at [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov).  Please include a name and a reference to the CCDC with the submitted inquiry.
+Users requiring any additional support or with any questions about the CCDC can contact the Childhood Cancer Data Initiative at [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov). Please include a name and a reference to the CCDC with the submitted inquiry.
 
 | Property | Value |
 | --- | --- |
@@ -1050,21 +1028,18 @@ Users requiring any additional support or with any questions about the CCDC can 
 ### August 21, 2024 | Release Notes
 
 The August release includes numerous updates to existing resources and six new datasets: CCDI’s Single-Cell Atlas of NF1 Nerve Sheath Tumors and Identification and Targeting of Treatment Resistant Progenitor Populations in T-cell Acute Lymphoblastic Leukemia; TCIA’s MR Imaging of Pediatric Subjects with High-Grade Gliomas (DFCI-BCH-BWH-PEDs-HGG); and ScPCA’s Single-cell Atlas of Pediatric Sarcoma, Single-cell profiling of pediatric bone sarcoma, and Profiling the transcriptional heterogeneity of diverse pediatric solid tumors - Osteosarcoma. Additional changes include updated counts of seven resources, updated case disease diagnosis lists for two resources, and updated references, resource-level properties, and other minor changes for numerous resources. Links were removed for the NCI CCSG CCDI Supplement Additional Genomic Submission and the ICGC Data Portal, and datasets were removed from Kids First Data Resource (ICR-DIPG, TARGET-AML, TARGET-NB, and PBTA-PNOC) and the Cancer Genome Characterization Initiative (NHL). No new functional updates were made to the user interface, but a critical software update was made to mitigate a potential security vulnerability.
-
-*Edited 9/25/2024 to correct errors in resource and dataset count summaries*
-
-Additional details are listed below:
+Detailed updates are described below. [*Edited 9/25/2024 to correct errors in resource and dataset count summaries*]
 
 ### Data Updates
 
 #### Existing Participating Resources and Datasets
 
-**15**existing resources have been updated with additionaldata and information or removed.
+**15** existing resources have been updated with additional data and information or removed.
 
 - Childhood Cancer Data Initiative (CCDI)
 
   - New Dataset – Childhood Cancer Data Initiative (CCDI): Single-Cell Atlas of NF1 Nerve Sheath Tumors
-  - New Dataset – Childhood Cancer Data Initiative (CCDI): Identification and Targeting of Treatment Resistant Progenitor Populations in T-cell Acute Lymphoblastic Leukemia
+  - New Dataset – Childhood Cancer Data Initiative (CCDI): Identification and Targeting of Treatment Resistant Progenitor Populations in T-cell Acute Lymphoblastic Leukemia
   - Removed data repository link for NCI CCSG CCDI Supplement Additional Genomic Submission
   - Updated multiple datasets:
 
@@ -1139,7 +1114,7 @@ General Site Updates
 
 Additional Support and Inquiries
 
-Users requiring any additional support or with any questions about the CCDC can contact the Childhood Cancer Data Initiative at [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov).  Please include a name and a reference to the CCDC with the submitted inquiry.
+Users requiring any additional support or with any questions about the CCDC can contact the Childhood Cancer Data Initiative at [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov). Please include a name and a reference to the CCDC with the submitted inquiry.
 
 | Property | Value |
 | --- | --- |
@@ -1152,33 +1127,31 @@ Users requiring any additional support or with any questions about the CCDC can 
 # Steady Progress
 ### June 12, 2024 | Release Notes
 
-This release of the Childhood Cancer Data Catalog includes 4 new datasets in 3 resources, updated counts from the CancerModels.org and Patient-Derived Xenograft and Advanced In Vivo Models (PDX-AIM) datasets, and a reorganization of the Childhood Cancer and Leukemia International Consortium (CLIC) dataset as a part of the World Health Organization - International Agency for Research on Cancer (WHO-IARC).
-Additional functional improvements include the clean-up of an issue resulting in blocks of unreadable text in the site updates export PDFs, and updating the DNS certificate for the Catalog.
+This release of the Childhood Cancer Data Catalog includes 4 new datasets in 3 resources, updated counts from the CancerModels.org and Patient-Derived Xenograft and Advanced In Vivo Models (PDX-AIM) datasets, and a reorganization of the Childhood Cancer and Leukemia International Consortium (CLIC) dataset as a part of the World Health Organization - International Agency for Research on Cancer (WHO-IARC).
+Additional functional improvements include the clean-up of an issue resulting in blocks of unreadable text in the site updates export PDFs, and updating the DNS certificate for the Catalog.
 Detailed data and site updates are described below.
-
-Additional details are listed below:
 
 ### Data Updates
 
 #### Existing Participating Resources and Datasets
 
-**6**existing resources have been updated with additionaldata and information.
+**6** existing resources have been updated with additional data and information.
 
 - CancerModels.org
 
   - Added total case count and updated counts
 - cBioPortal for Cancer Genomics
 
-  - **New Dataset**– Low-Grade Gliomas UCSF
-  - **New Dataset**– Rhabdomyosarcoma NIH
+  - **New Dataset** – Low-Grade Gliomas UCSF
+  - **New Dataset** – Rhabdomyosarcoma NIH
 - Childhood Cancer Data Initiative (CCDI)
 
-  - **New Dataset**– Childhood Cancer Data Initiative (CCDI): CCDI Pediatric In Vivo Testing Program – Leukemia
+  - **New Dataset** – Childhood Cancer Data Initiative (CCDI): CCDI Pediatric In Vivo Testing Program – Leukemia
   - Updated point of contact names
 - Gene Expression Omnibus (GEO)
 
-  - **New Dataset**– Genes regulated in EML1 cells expressing the TEL-AML1 oncogene after 5 and 7 days of treatment with IL7 and FLT3 ligand
-- Patient-Derived Xenograft and Advanced In Vivo Models (PDX AIM)              
+  - **New Dataset** – Genes regulated in EML1 cells expressing the TEL-AML1 oncogene after 5 and 7 days of treatment with IL7 and FLT3 ligand
+- Patient-Derived Xenograft and Advanced In Vivo Models (PDX AIM)
 
   - Updated counts
 - World Health Organization - International Agency for Research on Cancer (WHO-IARC)
@@ -1194,7 +1167,7 @@ Additional details are listed below:
 
 ### Additional Support and Inquiries
 
-Users requiring any additional support or with any questions about the CCDC can contact the Childhood Cancer Data Initiative at [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov).  Please include a name and a reference to the CCDC with the submitted inquiry.
+Users requiring any additional support or with any questions about the CCDC can contact the Childhood Cancer Data Initiative at [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov). Please include a name and a reference to the CCDC with the submitted inquiry.
 
 | Property | Value |
 | --- | --- |
@@ -1207,11 +1180,9 @@ Users requiring any additional support or with any questions about the CCDC can 
 # Make it count in May
 ### May 17, 2024 | Release Notes
 
-May Catalog updates include 13 new datasets, in addition to a disease list from Xena Browser and updated counts from the St. Jude Cloud Real-Time Clinical Genomics and PDX Development and Trial Centers PDXNet Portal PDMR datasets. This update also includes the addition of The South African National Cancer Registry (NCR) and the World Health Organization - International Agency for Research on Cancer (WHO-IARC). NCR has demographic, clinical, and reporting source cancer registration data and has played a critical role in the development of cancer prevention and control policy for the country. The objective of IARC is to promote international collaboration in cancer research so that preventive measures may be adopted, and the burden of disease and associated suffering reduced.
+May Catalog updates include 13 new datasets, in addition to a disease list from Xena Browser and updated counts from the St. Jude Cloud Real-Time Clinical Genomics and PDX Development and Trial Centers PDXNet Portal PDMR datasets. This update also includes the addition of The South African National Cancer Registry (NCR) and the World Health Organization - International Agency for Research on Cancer (WHO-IARC). NCR has demographic, clinical, and reporting source cancer registration data and has played a critical role in the development of cancer prevention and control policy for the country. The objective of IARC is to promote international collaboration in cancer research so that preventive measures may be adopted, and the burden of disease and associated suffering reduced.
 A function to pause the Resource Carousel has been added, allowing users to interact with and digest the displayed content at their preferred pace.
 Detailed data and site updates are described below.
-
-Additional details are listed below:
 
 ### Data Updates
 
@@ -1222,34 +1193,34 @@ Additional details are listed below:
 
 #### Existing Participating Resources and Datasets
 
-**7**existing resources have been updated with additionaldata and information.
+**7** existing resources have been updated with additional data and information.
 
 - cBioPortal for Cancer Genomics
 
-  - **New Dataset**– Myelodysplastic Syndromes IWG
-  - **New Dataset**– Pan-cancer Analysis of Advanced and Metastatic Tumors
-  - **New Dataset**– Neuroblastoma U Cologne
-  - **New Dataset**– Metastatic Solid Cancers U Michigan
-  - **New Dataset**– Medulloblastoma Sickkids
-  - **New Dataset**– Combined Hepatocellular and Intrahepatic Cholangiocarcinoma Peking University
-  - **New Dataset**– Skin Cutaneous Melanoma Broad
+  - **New Dataset** – Myelodysplastic Syndromes IWG
+  - **New Dataset** – Pan-cancer Analysis of Advanced and Metastatic Tumors
+  - **New Dataset** – Neuroblastoma U Cologne
+  - **New Dataset** – Metastatic Solid Cancers U Michigan
+  - **New Dataset** – Medulloblastoma Sickkids
+  - **New Dataset** – Combined Hepatocellular and Intrahepatic Cholangiocarcinoma Peking University
+  - **New Dataset** – Skin Cutaneous Melanoma Broad
 - Childhood Cancer Data Initiative (CCDI)
 
-  - **New Dataset**– Integrating Longitudinal Clinical, Sociodemographic and Genomic Data into the NCCR
-  - **New Dataset**– Enhancement of Data Sharing in Pediatric, Adolescent and Young Adult Cancers
+  - **New Dataset** – Integrating Longitudinal Clinical, Sociodemographic and Genomic Data into the NCCR
+  - **New Dataset** – Enhancement of Data Sharing in Pediatric, Adolescent and Young Adult Cancers
 - GENIE
 
-  - **New Dataset**– GENIE Cohort v15.1-public
-- PDX Dev and Trial Centers           
+  - **New Dataset** – GENIE Cohort v15.1-public
+- PDX Dev and Trial Centers
 
   - Updated PDXNet Portal PDMR Data counts
 - ScPCA
 
-  - **New Dataset**– Identification of drug-resistance-related cell states in paired pre- and post-treatment neuroblastoma cell lines
-  - **New Dataset**– Profiling pediatric and young adolescent (Ped-AYA) high-grade gliomas (HGGs)
+  - **New Dataset** – Identification of drug-resistance-related cell states in paired pre- and post-treatment neuroblastoma cell lines
+  - **New Dataset** – Profiling pediatric and young adolescent (Ped-AYA) high-grade gliomas (HGGs)
 - St. Jude Cloud
 
-  - **New Dataset**– Landscape of Pediatric Acute Myeloid Leukemia
+  - **New Dataset** – Landscape of Pediatric Acute Myeloid Leukemia
   - Updated counts for Real-Time Clinical Genomics
 - Xena Browser
 
@@ -1263,7 +1234,7 @@ Additional details are listed below:
 
 ### Additional Support and Inquiries
 
-Users requiring any additional support or with any questions about the CCDC can contact the Childhood Cancer Data Initiative at [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov).  Please include a name and a reference to the CCDC with the submitted inquiry.
+Users requiring any additional support or with any questions about the CCDC can contact the Childhood Cancer Data Initiative at [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov). Please include a name and a reference to the CCDC with the submitted inquiry.
 
 | Property | Value |
 | --- | --- |
@@ -1276,53 +1247,51 @@ Users requiring any additional support or with any questions about the CCDC can 
 # Planting Seeds of Discovery
 ### April 10, 2024 | Release Notes
 
-The April update of the Catalog includes the addition of 16 new datasets and the Genomics Evidence Neoplasia Information Exchange (GENIE) resource.  The GENIE resource is a publicly accessible cancer registry of real-world clinico-genomic data assembled through data sharing between 19 leading international cancer centers coordinated through the American Association for Cancer Research (AACR).
+The April update of the Catalog includes the addition of 16 new datasets and the Genomics Evidence Neoplasia Information Exchange (GENIE) resource. The GENIE resource is a publicly accessible cancer registry of real-world clinico-genomic data assembled through data sharing between 19 leading international cancer centers coordinated through the American Association for Cancer Research (AACR).
 The Catalog now features a new [Contribute to the CCDC](https://datacatalog.ccdi.cancer.gov/contribute) page dedicated to providing information about submitting data and joining the CCDC’s collection of community resources.
 Explore the data and site updates in more detail below.
-
-Additional details are listed below:
 
 ### Data Updates
 
 #### New Participating Resource and Datasets
 
 - Genomics Evidence Neoplasia Information Exchange (GENIE)
-- **New Dataset**– AACR Project GENIE AKT1 Cohort
-- **New Dataset**– BioPharma Collaborative Colorectal Cancer v2.0 Public
-- **New Dataset**– BioPharma Collaborative Non-Small Cell Lung Cancer (NSCLC) v2.0 Public
-- **New Dataset**– DFCI-Profile Glioma Cohort 2013-2018
-- **New Dataset**– ERBB2 Cohort
-- **New Dataset**– Metastatic Breast Cancer: 2013-2016
+- **New Dataset** – AACR Project GENIE AKT1 Cohort
+- **New Dataset** – BioPharma Collaborative Colorectal Cancer v2.0 Public
+- **New Dataset** – BioPharma Collaborative Non-Small Cell Lung Cancer (NSCLC) v2.0 Public
+- **New Dataset** – DFCI-Profile Glioma Cohort 2013-2018
+- **New Dataset** – ERBB2 Cohort
+- **New Dataset** – Metastatic Breast Cancer: 2013-2016
 
 #### Existing Participating Resources and Datasets
 
-**5**existing resources have been updated with additionaldata and information.
+**5** existing resources have been updated with additional data and information.
 
 - cBioPortal for Cancer Genomics
-  - **New Dataset**– Acute Myeloid Leukemia OHSU
-  - **New Dataset**– Breast Cancer METABRIC
-  - **New Dataset**– Breast Cancer SMC
-  - **New Dataset**– Diffuse Glioma (GLASS Consortium)
-  - **New Dataset**– Diffuse Large B-Cell Lymphoma Duke
-  - **New Dataset**– Medulloblastoma DKFZ
-  - **New Dataset**– Neuroblastoma AMC Amsterdam
-  - **New Dataset**– Pediatric Brain Cancer CPTAC/CHOP
+  - **New Dataset** – Acute Myeloid Leukemia OHSU
+  - **New Dataset** – Breast Cancer METABRIC
+  - **New Dataset** – Breast Cancer SMC
+  - **New Dataset** – Diffuse Glioma (GLASS Consortium)
+  - **New Dataset** – Diffuse Large B-Cell Lymphoma Duke
+  - **New Dataset** – Medulloblastoma DKFZ
+  - **New Dataset** – Neuroblastoma AMC Amsterdam
+  - **New Dataset** – Pediatric Brain Cancer CPTAC/CHOP
 - Childhood Cancer Data Initiative (CCDI)
   - Updated case and sample counts for the Molecular Characterization Initiative (MCI) dataset
 - Central Brain Tumor Registry of the United States (CBTRUS)
-  - **New Dataset**– CBTRUS Fact Sheet 2023
+  - **New Dataset** – CBTRUS Fact Sheet 2023
 - OncoKB
   - Updated case disease diagnosis.
 - Pediatric Cancer Data Commons (PCDC)
-  - **New Dataset**– International Acute Myeloid Leukemia Consortium (INTERACT)
+  - **New Dataset** – International Acute Myeloid Leukemia Consortium (INTERACT)
   - Updated case and sample counts for the *Hodgkin Lymphoma Data Collaboration (NODAL)*, *International Neuroblastoma Risk Group (INRG)*, and *International Soft Tissue Sarcoma Consortium (INSTRuCT)* datasets.
 
 ### General Site Updates
 
-- A new [Contribute to the CCDC](https://datacatalog.ccdi.cancer.gov/contribute) page, available under the About menu, was added to share information on how to contribute data to the CCDC. 
+- A new [Contribute to the CCDC](https://datacatalog.ccdi.cancer.gov/contribute) page, available under the About menu, was added to share information on how to contribute data to the CCDC. 
   - If a resource or study involves participants younger than 40 and focuses on cancer or supports cancer research, resource or study is eligible to contribute.
-  - A submission templates can be completed and sent to [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov).
-- The ‘CCDI Studies’ menu was updated to include direct links to the following CCDI Applications: 
+  - A submission templates can be completed and sent to [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov).
+- The ‘CCDI Studies’ menu was updated to include direct links to the following CCDI Applications: 
   - The [Childhood Cancer Data Initiative Hub (CCDI Hub)](https://ccdi.cancer.gov/home) is an entry point to the Data Ecosystem and provides direct links to applications, tools, resources, and additional technical information, including the CCDC.
   - The [CCDI''s Molecular Targets Platform (MTP)](https://moleculartargets.ccdi.cancer.gov/) includes a computable interpretation of the FDA''s Relevant Molecular Target List at an individual gene level. The MTP is open access and currently includes nearly 59,000 potential genes and 215 relevant molecular targets in more than 60 specific pediatric cancers.
   - The [Childhood Cancer Clinical Data Commons (C3DC)](https://clinicalcommons.ccdi.cancer.gov/) is an open-access web application that serves as the primary source for deidentified, individual-level harmonized data that describes the demographic and phenotypic characteristics of participants.
@@ -1331,7 +1300,7 @@ Additional details are listed below:
 
 ### Additional Support and Inquiries
 
-Users requiring any additional support or with any questions about the CCDC can contact the Childhood Cancer Data Initiative at [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov).  Please include a name and a reference to the CCDC with the submitted inquiry.
+Users requiring any additional support or with any questions about the CCDC can contact the Childhood Cancer Data Initiative at [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov). Please include a name and a reference to the CCDC with the submitted inquiry.
 
 | Property | Value |
 | --- | --- |
@@ -1344,16 +1313,14 @@ Users requiring any additional support or with any questions about the CCDC can 
 # Data at the End of the Rainbow
 ### March 13, 2024 | Release Notes
 
-This release of the Catalog includes updates for 5 existing resources with 11 new datasets and other data updates.  Among the new dataset are 2 additions to the Childhood Cancer Data Initiative resource: one new project dataset, Genomic Analysis in Pediatric Malignancies, and one new analytic tool set, Center for Computational and Genomic Medicine Analytic Tools.
+This release of the Catalog includes updates for 5 existing resources with 11 new datasets and other data updates. Among the new dataset are 2 additions to the Childhood Cancer Data Initiative resource: one new project dataset, Genomic Analysis in Pediatric Malignancies, and one new analytic tool set, Center for Computational and Genomic Medicine Analytic Tools.
 Explore the data and site updates in more detail below.
-
-Additional details are listed below:
 
 ### Data Updates
 
 #### Existing Participating Resources and Datasets
 
-**5**existing resources have been updated with additionaldata and information.
+**5** existing resources have been updated with additional data and information.
 
 - cBioPortal for Cancer Genomics
   - **New Dataset** – ALL St. Jude 2015
@@ -1376,13 +1343,13 @@ Additional details are listed below:
 
 ### General Site Updates
 
-- The ‘Featured Item’ carousel now includes a pause button.  Selecting the button will pause the automatic advancement of the carousel and selecting it a second time will restart the advancement.
+- The ‘Featured Item’ carousel now includes a pause button. Selecting the button will pause the automatic advancement of the carousel and selecting it a second time will restart the advancement.
 - The Glossary has been updated with new acronyms and abbreviations.
 - The User Guide is updated to reflect new and updated resource information.
 
 ### Additional Support and Inquiries
 
-Users requiring any additional support or with any questions about the CCDC can contact the Childhood Cancer Data Initiative at [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov).  Please include a name and a reference to the CCDC with the submitted inquiry.
+Users requiring any additional support or with any questions about the CCDC can contact the Childhood Cancer Data Initiative at [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov). Please include a name and a reference to the CCDC with the submitted inquiry.
 
 | Property | Value |
 | --- | --- |
@@ -1399,20 +1366,18 @@ This update includes the addition of the National Clinical Trials Network (NCTN)
 The Catalog also updated 9 existing resources, including 8 new datasets, along with numerous data updates.
 Explore the data and site updates in more detail below.
 
-Additional details are listed below:
-
 ### Data Updates
 
 #### New Participating Resource and Dataset
 
-The CCDC has added **2** new resources.
+The CCDC has added **2** new resources.
 
 - National Clinical Trials Network (NCTN) Navigator
 - Cancer Epidemiology Descriptive Cohort Database (CEDCD)
 
 #### Existing Participating Resources and Datasets
 
-**9**existing resources have been updated with additionaldata and information.
+**9** existing resources have been updated with additional data and information.
 
 - cBioPortal for Cancer Genomics
   - **New Dataset** – China Pan-cancer
@@ -1454,7 +1419,7 @@ The CCDC has added **2** new resources.
 
 ### Additional Support and Inquiries
 
-Users requiring any additional support or with any questions about the CCDC can contact the Childhood Cancer Data Initiative at [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov).  Please include a name and a reference to the CCDC with the submitted inquiry.
+Users requiring any additional support or with any questions about the CCDC can contact the Childhood Cancer Data Initiative at [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov). Please include a name and a reference to the CCDC with the submitted inquiry.
 
 | Property | Value |
 | --- | --- |
@@ -1467,17 +1432,15 @@ Users requiring any additional support or with any questions about the CCDC can 
 # The Quest for Data and Discovery
 ### January 17, 2024 | Release Notes
 
-This update includes the addition of the cBioPortal for Cancer Genomics repository and the Innovative Therapies for Children with Cancer Paediatric Preclinical Proof-of-Concept Platform (ITCC-P4) program.  The cBioPortal for Cancer Genomics is a tool for interactive exploration of genomics data sets that aims to lower the barriers between complex genomic data and cancer researchers.  The ITCC-P4 is a multi-country consortium that aims to establish new patient-derived preclinical models of high-risk pediatric tumors which can be fully characterized.
+This update includes the addition of the cBioPortal for Cancer Genomics repository and the Innovative Therapies for Children with Cancer Paediatric Preclinical Proof-of-Concept Platform (ITCC-P4) program. The cBioPortal for Cancer Genomics is a tool for interactive exploration of genomics data sets that aims to lower the barriers between complex genomic data and cancer researchers. The ITCC-P4 is a multi-country consortium that aims to establish new patient-derived preclinical models of high-risk pediatric tumors which can be fully characterized.
 The Catalog also updated 8 existing resources, including 1 new dataset, along with numerous data updates.
 Explore the data and site updates in more detail below.
-
-Additional details are listed below:
 
 ### Data Updates
 
 #### New Participating Resource and Dataset
 
-The CCDC has added **2** new resources.
+The CCDC has added **2** new resources.
 
 - cBioPortal for Cancer Genomics
   - **New Dataset** - Sarcoma MSK 2022
@@ -1485,7 +1448,7 @@ The CCDC has added **2** new resources.
 
 #### Existing Participating Resources and Datasets
 
-**8**existing resources have been updated with additionaldata and information.
+**8** existing resources have been updated with additional data and information.
 
 - Children's Oncology Group (COG)
   - Updated Clinical Trial List URL
@@ -1504,7 +1467,7 @@ The CCDC has added **2** new resources.
   - Updated resources name to *National Childhood Cancer Registry Database in SEER\*Stat* from *Surveillance, Epidemiology, and End Results Program*
   - Updated resource Description and URL.
   - Updated dataset name to *NCCR Database in SEER\*Stat* from *National Childhood Cancer Registry Explorer*
-  - Updated dataset description and Data Repository link.  Removed Published In URL.
+  - Updated dataset description and Data Repository link. Removed Published In URL.
 - PDX for Childhood Cancer Therapeutics (PCAT)
   - Updated Case Tumor Site and Sample Anatomic Site values and counts
 - Pediatric Preclinical Testing Consortium (PPTC)
@@ -1519,7 +1482,7 @@ The CCDC has added **2** new resources.
 
 ### Additional Support and Inquiries
 
-Users requiring any additional support or with any questions about the CCDC can contact the Childhood Cancer Data Initiative at [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov).  Please include a name and a reference to the CCDC with the submitted inquiry.
+Users requiring any additional support or with any questions about the CCDC can contact the Childhood Cancer Data Initiative at [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov). Please include a name and a reference to the CCDC with the submitted inquiry.
 
 | Property | Value |
 | --- | --- |
@@ -1536,19 +1499,17 @@ This update includes the addition of the Osteosarcoma Explorer (OSE) analytical 
 The Catalog also updated 6 existing resources, including 1 new dataset, along with numerous data updates.
 Explore the data and site updates in more detail below.
 
-Additional details are listed below:
-
 ### Data Updates
 
 #### New Participating Resource and Dataset
 
-The CCDC has added **1** new Analytic Tool resource.
+The CCDC has added **1** new Analytic Tool resource.
 
 - Osteosarcoma Explorer (OSE)
 
 #### Existing Participating Resources and Datasets
 
-**6**existing resources have been updated with additionaldata and information.
+**6** existing resources have been updated with additional data and information.
 
 - CancerModels.Org
   - Added case tumor site data element
@@ -1570,7 +1531,7 @@ The CCDC has added **1** new Analytic Tool resource.
 
 ### Additional Support and Inquiries
 
-Users requiring any additional support or with any questions about the CCDC can contact the Childhood Cancer Data Initiative at [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov).  Please include a name and a reference to the CCDC with the submitted inquiry.
+Users requiring any additional support or with any questions about the CCDC can contact the Childhood Cancer Data Initiative at [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov). Please include a name and a reference to the CCDC with the submitted inquiry.
 
 | Property | Value |
 | --- | --- |
@@ -1586,13 +1547,11 @@ Users requiring any additional support or with any questions about the CCDC can 
 This update includes additional count information for the Childhood Cancer Data Initiative and the Victorian Paediatric Cancer Consortium resources as well as an update to the NCI Imaging Data Commons.
 Explore the data and site updates in more detail below.
 
-Additional details are listed below:
-
 ### Data Updates
 
 #### Existing Participating Resources and Datasets
 
-**3**existing resources have been updated with additionaldata and information.
+**3** existing resources have been updated with additional data and information.
 
 - Childhood Cancer Data Initiative (CCDI)
   - Updated sample counts for Molecular Characterization Initiative (MCI)
@@ -1608,7 +1567,7 @@ Additional details are listed below:
 
 ### Additional Support and Inquiries
 
-Users requiring any additional support or with any questions about the CCDC can contact the Childhood Cancer Data Initiative at [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov).  Please include a name and a reference to the CCDC with the submitted inquiry.
+Users requiring any additional support or with any questions about the CCDC can contact the Childhood Cancer Data Initiative at [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov). Please include a name and a reference to the CCDC with the submitted inquiry.
 
 | Property | Value |
 | --- | --- |
@@ -1625,19 +1584,17 @@ This update includes the addition of Imaging Data Commons (IDC). The IDC is a cl
 The Catalog also updated existing resources to add 4 datasets along with numerous data updates.
 Explore the data and site updates in more detail below.
 
-Additional details are listed below:
-
 ### Data Updates
 
 #### New Participating Resource and Dataset
 
-The CCDC has added **1** new Data Repository resource.
+The CCDC has added **1** new Data Repository resource.
 
 - Imaging Data Commons (IDC)
 
 #### Existing Participating Resources and Datasets
 
-**7**existing resources have been updated with additionaldata and information.
+**7** existing resources have been updated with additional data and information.
 
 - Childhood Cancer Data Initiative (CCDI)
   - Updated sample counts for Molecular Characterization Initiative (MCI)
@@ -1673,7 +1630,7 @@ The CCDC has added **1** new Data Repository resource.
 
 ### Additional Support and Inquiries
 
-Users requiring any additional support or with any questions about the CCDC can contact the Childhood Cancer Data Initiative at [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov).  Please include a name and a reference to the CCDC with the submitted inquiry.
+Users requiring any additional support or with any questions about the CCDC can contact the Childhood Cancer Data Initiative at [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov). Please include a name and a reference to the CCDC with the submitted inquiry.
 
 | Property | Value |
 | --- | --- |
@@ -1689,19 +1646,17 @@ Users requiring any additional support or with any questions about the CCDC can 
 This update includes the addition of 2 new datasets to the database of Genotypes and Phenotypes (dbGaP) resource and the addition of the TCIABrowser, a tool to connect to the TCIA to browse different collections, patient subjects, studies, and series as well as download the images and visualize them in 3D slicer. Additionally, 5 other resources have been updated with new dataset information.
 Explore the data and site updates in more detail below.
 
-Additional details are listed below:
-
 ### Data Updates
 
 #### Existing Participating Resources and Datasets
 
-**7**existing resources have been updated with additionaldata and information.
+**7** existing resources have been updated with additional data and information.
 
 - Childhood Cancer Data Initiative (CCDI)
   - Updated case counts, case disease diagnosis information, and sample counts for Molecular Characterization Initiative (MCI).
 - The database of Genotypes and Phenotypes (dbGaP)
   - **New dataset** – ARST17B2-Q Germline and Somatic Genetic Landscape of Pediatric Rhabdomyosarcoma
-  - **New dataset** –Comprehensive Omics Analysis of Pediatric Solid Tumors and Establishment of a Repository for Related Biologic Studies (10C0086)
+  - **New dataset** – Comprehensive Omics Analysis of Pediatric Solid Tumors and Establishment of a Repository for Related Biologic Studies (10C0086)
 - Genomic Data Commons (GDC)
   - Updated case counts, case disease diagnosis information, and sample counts for *MP2PRT: Identification of Genetic Changes Associated with Relapse and/or Adaptive Resistance in Patients Registered as Favorable Histology Wilms Tumor on AREN03B2*
 - Human Cancer Models Initiative (HCMI)
@@ -1722,7 +1677,7 @@ Additional details are listed below:
 
 ### Additional Support and Inquiries
 
-Users requiring any additional support or with any questions about the CCDC can contact the Childhood Cancer Data Initiative at [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov).  Please include a name and a reference to the CCDC with the submitted inquiry.
+Users requiring any additional support or with any questions about the CCDC can contact the Childhood Cancer Data Initiative at [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov). Please include a name and a reference to the CCDC with the submitted inquiry.
 
 | Property | Value |
 | --- | --- |
@@ -1738,8 +1693,6 @@ Users requiring any additional support or with any questions about the CCDC can 
 This update includes the addition of Biorepository as a new Resource Type. This new resource type expands the available resources to include resources that act as libraries for biospecimens, allowing for the biospecimens to be available for use in future research. This initial update includes both national and international biorepositories.
 The Catalog is also expanded to add 4 new resources and 10 new datasets.
 Explore the data and site updates in more detail below.
-
-Additional details are listed below:
 
 ### Data Updates
 
@@ -1760,7 +1713,7 @@ The CCDC has added **4** new resources with connections to 9 biorepositories. Th
 
 #### Existing Participating Resources and Datasets
 
-**4**existing resources have been updated with additionaldata and information.
+**4** existing resources have been updated with additional data and information.
 
 - Childhood Cancer Data Initiative (CCDI)
   - Updated case counts, case disease diagnosis information, and sample counts for Molecular Characterization Initiative (MCI).
@@ -1776,7 +1729,7 @@ The CCDC has added **4** new resources with connections to 9 biorepositories. Th
 
 ### General Site Updates
 
-- The CCDC Submission Template file, available on the About CCDI Data Catalog page, has been updated with new Resource Type, Biorepository, and a new Data Content Type, Biospecimen.  Additionally, the ‘Repository’ Resource Type has been updated to be ‘Data Repository.’
+- The CCDC Submission Template file, available on the About CCDI Data Catalog page, has been updated with new Resource Type, Biorepository, and a new Data Content Type, Biospecimen. Additionally, the ‘Repository’ Resource Type has been updated to be ‘Data Repository.’
 - The Glossary has been updated with new acronyms and abbreviations.
 - The User Guide is updated to reflect new and updated resource information.
 
@@ -1787,7 +1740,7 @@ The CCDC has added **4** new resources with connections to 9 biorepositories. Th
 
 ### Additional Support and Inquiries
 
-Users requiring any additional support or with any questions about the CCDC can contact the Childhood Cancer Data Initiative at [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov).  Please include a name and a reference to the CCDC with the submitted inquiry.
+Users requiring any additional support or with any questions about the CCDC can contact the Childhood Cancer Data Initiative at [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov). Please include a name and a reference to the CCDC with the submitted inquiry.
 
 | Property | Value |
 | --- | --- |
@@ -1804,8 +1757,6 @@ This update includes the addition of two new analytic tools—the *Cancer Resear
 This update also includes a new guide providing information about how to access, query, and process data from the Childhood Cancer Data Initiative (CCDI) stored at the NCI’s Cancer Data Service (CDS). The CCDI studies that submit data to the CDS are registered with the National Center for Biotechnology Information's database of Genotypes and Phenotypes (dbGaP), which maintains a list of the subject IDs, sample IDs, and consents.
 Explore the data and site updates in more detail below.
 
-Additional details are listed below:
-
 ### Data Updates
 
 #### New Participating Resource and Dataset
@@ -1818,7 +1769,7 @@ The CCDC has added **3** new catalog resources.
 
 #### Existing Participating Resources and Datasets
 
-**3**existing resources have been updated with additionaldata and information.
+**3** existing resources have been updated with additional data and information.
 
 - St. Jude Cloud
   - Updated case counts, case disease diagnosis information, and sample counts for multiple datasets
@@ -1837,7 +1788,7 @@ The CCDC has added **3** new catalog resources.
 
 ### Additional Support and Inquiries
 
-Users requiring any additional support or with any questions about the CCDC can contact the Childhood Cancer Data Initiative at [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov).  Please include a name and a reference to the CCDC with the submitted inquiry.
+Users requiring any additional support or with any questions about the CCDC can contact the Childhood Cancer Data Initiative at [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov). Please include a name and a reference to the CCDC with the submitted inquiry.
 
 | Property | Value |
 | --- | --- |
@@ -1850,10 +1801,8 @@ Users requiring any additional support or with any questions about the CCDC can 
 # Flagging New Datasets
 ### June 14, 2023 | Release Notes
 
-This update includes the addition of the CancerModels.Org catalog resource.  CancerModels.Org is a free, open-source cancer research platform that aggregates clinical, genomic, and functional data from patient-derived xenografts, organoids and cell lines.  The resource currently has over 7,000 patient-derived cancer models available for the cancer community.  Additionally, 7 existing resources have been updated to include 13 new datasets, 8 of which come from the Single-cell Pediatric Cancer Atlas Portal (ScPCA).
+This update includes the addition of the CancerModels.Org catalog resource. CancerModels.Org is a free, open-source cancer research platform that aggregates clinical, genomic, and functional data from patient-derived xenografts, organoids and cell lines. The resource currently has over 7,000 patient-derived cancer models available for the cancer community. Additionally, 7 existing resources have been updated to include 13 new datasets, 8 of which come from the Single-cell Pediatric Cancer Atlas Portal (ScPCA).
 Explore the data and site updates in more detail below.
-
-Additional details are listed below:
 
 ### Data Updates
 
@@ -1865,28 +1814,28 @@ The CCDC has added **1** new catalog resource.
 
 #### Existing Participating Resources and Datasets
 
-**7**existing resources have been updated with additionaldata and information, including **13** new datasets.
+**7** existing resources have been updated with additional data and information, including **13** new datasets.
 
 - Childhood Cancer Data Initiative (CCDI)
   - **New dataset -** Molecular Characterization across Pediatric Brain Tumors and Other Solid and Hematologic Malignancies for Research, Diagnostic, and Precision Medicine
   - Updated case counts, case disease diagnosis information, and sample counts for Molecular Characterization Initiative dataset
 - The database of Genotypes and Phenotypes (dbGaP)
-  - **New dataset**– Detection and Targeting of Splicing Deregulation in Pediatric Acute Myeloid Leukemia Stem Cells
-  - **New dataset**– INCLUDE: The Epidemiology of Transient Leukemia in Newborns with Down Syndrome
-  - **New dataset**– Structurally Complex Osteosarcoma Genomes Exhibit Limited Heterogeneity within Individual Tumors and across Evolutionary Time
+  - **New dataset** – Detection and Targeting of Splicing Deregulation in Pediatric Acute Myeloid Leukemia Stem Cells
+  - **New dataset** – INCLUDE: The Epidemiology of Transient Leukemia in Newborns with Down Syndrome
+  - **New dataset** – Structurally Complex Osteosarcoma Genomes Exhibit Limited Heterogeneity within Individual Tumors and across Evolutionary Time
 - Genomic Data Commons (GDC)
   - Updated Clinical Proteomic Tumor Analysis Consortium (CPTAC) dataset to include a link to the ProTrack data portal.
 - Population-based Research to Optimize the Screening Process (PROSPR)
   - Updated case counts, case disease diagnosis information, and sample counts for PROSPR 1 Breast Cancer Public Use Dataset.
 - Single-cell Pediatric Cancer Atlas Portal (ScPCA)
-  - **New dataset**– Delineating pediatric brain tumor progression using single-nuclei sequencing
-  - **New dataset**– Profiling the transcriptional heterogeneity of diverse pediatric solid tumors – Ewing sarcoma
-  - **New dataset**– Profiling the transcriptional heterogeneity of diverse pediatric solid tumors – Non-rhabdomyosarcoma soft tissue sarcomas
-  - **New dataset**– Profiling the transcriptional heterogeneity of diverse pediatric solid tumors – Other solid tumors
-  - **New dataset**– Profiling the transcriptional heterogeneity of diverse pediatric solid tumors – Retinoblastoma
-  - **New dataset**– Profiling the transcriptional heterogeneity of diverse pediatric solid tumors – Rhabdoid tumor
-  - **New dataset**– Profiling the transcriptional heterogeneity of diverse pediatric solid tumors – Wilms tumor
-  - **New dataset**– Single Cell Profiling of Early T cell Precursor Acute Lymphoblastic Leukemia
+  - **New dataset** – Delineating pediatric brain tumor progression using single-nuclei sequencing
+  - **New dataset** – Profiling the transcriptional heterogeneity of diverse pediatric solid tumors – Ewing sarcoma
+  - **New dataset** – Profiling the transcriptional heterogeneity of diverse pediatric solid tumors – Non-rhabdomyosarcoma soft tissue sarcomas
+  - **New dataset** – Profiling the transcriptional heterogeneity of diverse pediatric solid tumors – Other solid tumors
+  - **New dataset** – Profiling the transcriptional heterogeneity of diverse pediatric solid tumors – Retinoblastoma
+  - **New dataset** – Profiling the transcriptional heterogeneity of diverse pediatric solid tumors – Rhabdoid tumor
+  - **New dataset** – Profiling the transcriptional heterogeneity of diverse pediatric solid tumors – Wilms tumor
+  - **New dataset** – Single Cell Profiling of Early T cell Precursor Acute Lymphoblastic Leukemia
 - St. Jude Cloud
   - **New dataset** – Pediatric Cancer Knowledge Base (PeCan)
 - Victorian Paediatric Cancer Consortium (VPCC)
@@ -1903,7 +1852,7 @@ The About page has a new banner image.
 
 ### Additional Support and Inquiries
 
-Users requiring any additional support or with any questions about the CCDC can contact Childhood Cancer Data Initiative at [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov).  Please include a name and a reference to the CCDC with the submitted inquiry.
+Users requiring any additional support or with any questions about the CCDC can contact Childhood Cancer Data Initiative at [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov). Please include a name and a reference to the CCDC with the submitted inquiry.
 
 | Property | Value |
 | --- | --- |
@@ -1917,10 +1866,8 @@ Users requiring any additional support or with any questions about the CCDC can 
 ### May 17, 2023 | Release Notes
 
 The National Cancer Institute is pleased to announce an update to the Childhood Cancer Data Catalog website: <https://datacatalog.ccdi.cancer.gov/>.
-This update includes the addition of the Cancer Dependency Map (DepMap) as a new analytic tool resource.  The DepMap portal is an open access to analytical and visualization toolsets using broad panels of cancer models that represent the diversity of human cancers to identify and understand the landscape of cancer dependencies and create a resource for drug target and biomarker discovery.  Additionally, 6 existing resources have been updated to included new count information.
+This update includes the addition of the Cancer Dependency Map (DepMap) as a new analytic tool resource. The DepMap portal is an open access to analytical and visualization toolsets using broad panels of cancer models that represent the diversity of human cancers to identify and understand the landscape of cancer dependencies and create a resource for drug target and biomarker discovery. Additionally, 6 existing resources have been updated to included new count information.
 Explore the data and site updates in more detail below.
-
-Additional details are listed below:
 
 ### Data Updates
 
@@ -1932,7 +1879,7 @@ The CCDC has added **1** new analytic tool resource.
 
 #### Existing Participating Resources and Datasets
 
-**6** existing resources have been updated with additionaldata and information.
+**6** existing resources have been updated with additional data and information.
 
 - Genomic Data Commons (GDC)
   - Updated case counts, case disease diagnosis information, and sample counts for HCMI dataset.
@@ -1941,7 +1888,7 @@ The CCDC has added **1** new analytic tool resource.
 - Kids First Data Resource
   - Updated case counts and case disease diagnosis information for Pediatric Brain Tumor Atlas’s Children’s Brain Tumor Network (CBTN).
 - PDX Development and Trial Centers Research Network (PDXNet) 
-  - Updated case counts and case disease diagnosis information forPDXNet Portal PDMR Data and PDXNet Portal Model datasets.
+  - Updated case counts and case disease diagnosis information for PDXNet Portal PDMR Data and PDXNet Portal Model datasets.
 - Victorian Paediatric Cancer Consortium (VPCC)
   - Updated case counts, case disease diagnosis information, and sample counts for Childhood Cancer Model Atlas dataset.
 - Xena Browser
@@ -1959,7 +1906,7 @@ The CCDC has added **1** new analytic tool resource.
 
 ### Additional Support and Inquiries
 
-Users requiring any additional support or with any questions about the CCDC can contact Childhood Cancer Data Initiative at [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov).  Please include a name and a reference to the CCDC with the submitted inquiry.
+Users requiring any additional support or with any questions about the CCDC can contact Childhood Cancer Data Initiative at [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov). Please include a name and a reference to the CCDC with the submitted inquiry.
 
 | Property | Value |
 | --- | --- |
@@ -1973,7 +1920,7 @@ Users requiring any additional support or with any questions about the CCDC can 
 ### April 19, 2023 | Release Notes
 
 The National Cancer Institute is pleased to announce an update to the Childhood Cancer Data Catalog website: <https://datacatalog.ccdi.cancer.gov/>.
-This update includes the addition of the Xena Browser as a new analytic tool resource.  Xena Browser is an online exploration tool that allows users to look at functional genomic data sets for correlations between genomic and/or phenotypic variables.  Additionally, 8 existing resources have been updated to include 7 new datasets, 5 of which come from The Cancer Imaging Archive (TCIA).
+This update includes the addition of the Xena Browser as a new analytic tool resource. Xena Browser is an online exploration tool that allows users to look at functional genomic data sets for correlations between genomic and/or phenotypic variables. Additionally, 8 existing resources have been updated to include 7 new datasets, 5 of which come from The Cancer Imaging Archive (TCIA).
 Explore the data and site updates in more detail below:
 
 ### Data Updates
@@ -1986,7 +1933,7 @@ The CCDC has added **1** new analytic tool resource.
 
 #### Existing Participating Resources and Datasets
 
-**8** existing resources have been updated with additionaldata and information, including **7** new datasets.
+**8** existing resources have been updated with additional data and information, including **7** new datasets.
 
 - Central Brain Tumor Registry of the United States (CBTRUS)
   - **New dataset** - CBTRUS Fact Sheet 2022
@@ -2028,7 +1975,7 @@ The CCDC has added **1** new analytic tool resource.
 
 ### Additional Support and Inquiries
 
-Users requiring any additional support or with any questions about the CCDC can contact Childhood Cancer Data Initiative at [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov).  Please include a name and a reference to the CCDC with the submitted inquiry.
+Users requiring any additional support or with any questions about the CCDC can contact Childhood Cancer Data Initiative at [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov). Please include a name and a reference to the CCDC with the submitted inquiry.
 
 | Property | Value |
 | --- | --- |
@@ -2045,8 +1992,6 @@ The National Cancer Institute is pleased to announce an update to the Childhood 
 This update includes the addition of 3 new resources: All of Us, Greehey Children's Cancer Research Institute Xenograft & Cell-Lines Core, and the Surveillance, Epidemiology, and End Results (SEER) program. With these new resources and updates to the CCDI and dbGaP resources, the catalog has added 11 new datasets. Additionally, the Catalog release includes numerous updates to the data and information for 7 existing resources across multiple datasets.
 Those looking to access CCDI data now have a new direct link to CCDI Studies in the menu bar.
 
-Additional details are listed below:
-
 ### Data Updates
 
 #### New Participating Resource and Datasets
@@ -2062,7 +2007,7 @@ The CCDC has added **3** new resources that include **3** new datasets.
 
 #### Existing Participating Resources and Datasets
 
-**7** existing resources have been updated with additionaldata and information, including **8** new datasets.
+**7** existing resources have been updated with additional data and information, including **8** new datasets.
 
 - Childhood Cancer Data Initiative (CCDI)
   - **New dataset** – Clonal Evolution During Metastatic Spread in High-Risk Neuroblastoma
@@ -2112,8 +2057,6 @@ The National Cancer Institute is pleased to announce the addition of Epidemiolog
 The Catalog is also expanded to add 1 new resource, Fibrolamellar Registry, with 1 new dataset.
 There are several small site improvements in this update.
 
-Additional details are listed below:
-
 ### Data Updates
 
 #### New Data Content Type
@@ -2128,11 +2071,11 @@ The CCDC has added a new data content type ‘Epidemiologic.’
 The CCDC has added **1** new resource that includes **1** new dataset.
 
 - Fibrolamellar Registry
-  - **New dataset** - Fibrolamellar Registry
+  - **New dataset** - Fibrolamellar Registry
 
 #### Existing Participating Resources and Datasets
 
-**8** existing resources have been updated to include the additionaldata and information.
+**8** existing resources have been updated to include the additional data and information.
 
 - Childhood Cancer Data Initiative (CCDI)
   - Molecular Characterization Initiative
@@ -2173,7 +2116,7 @@ The CCDC has added **1** new resource that includes **1** new dataset.
 
 ### Additional Support and Inquiries
 
-Users requiring any additional support or with any questions about the CCDC can contact Childhood Cancer Data Initiative at [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov).  Please include a name and a reference to the CCDC with the submitted inquiry.
+Users requiring any additional support or with any questions about the CCDC can contact Childhood Cancer Data Initiative at [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov). Please include a name and a reference to the CCDC with the submitted inquiry.
 
 | Property | Value |
 | --- | --- |
@@ -2190,8 +2133,6 @@ The National Cancer Institute is pleased to announce the addition of the Analyti
 The Catalog is also expanded to add 5 new resources with 38 new datasets - Gene Expression Omnibus (GEO) (25), Childhood Leukemia International Consortium (CLIC) (1), Population-based Research to Optimize the Screening Process (PROSPR) (3), Single-cell Pediatric Cancer Atlas Portal (ScPCA) (8), Victorian Paediatric Cancer Consortium (VPCC) (1).
 There are several site improvements in this update, including a new dynamic chart to display Core Data Elements on the Dataset Details page.
 
-Additional details are listed below:
-
 ### Data Updates
 
 #### New Resource Type and Datasets
@@ -2199,64 +2140,64 @@ Additional details are listed below:
 The CCDC has added a new resource type, ‘Analytic Tool’ with **3** new resources and **8** new datasets.
 
 - Cancer Genomics Cloud (CGC)
-  - **New dataset** - CICERO - Algorithm
-  - **New dataset** - NetBID - System biology pipeline
-  - **New dataset** - RNAIndel – Indel prediction tool
-  - **New dataset** - Teltale - Telomeric read tool
+  - **New dataset** - CICERO - Algorithm
+  - **New dataset** - NetBID - System biology pipeline
+  - **New dataset** - RNAIndel – Indel prediction tool
+  - **New dataset** - Teltale - Telomeric read tool
 - HitWalker2
-  - **New dataset** - HitWalker2 - Visualization tool
+  - **New dataset** - HitWalker2 - Visualization tool
 - Vizome - discovery platform
-  - **New dataset** - BEAT AML
-  - **New dataset** - BEAT AML 2.0
-  - **New dataset** - Chronic neutrophilic leukemia (CNL)
+  - **New dataset** - BEAT AML
+  - **New dataset** - BEAT AML 2.0
+  - **New dataset** - Chronic neutrophilic leukemia (CNL)
 
 #### New Participating Resource and Datasets
 
 The CCDC has added **5** new resources that include **38** new datasets.
 
 - Childhood Leukemia International Consortium (CLIC)
-  - **New dataset** - Childhood Cancer & Leukemia International Consortium
+  - **New dataset** - Childhood Cancer & Leukemia International Consortium
 - Gene Expression Omnibus (GEO)
-  - **New dataset** - Bone morphogenetic protein-7 is a MYC target with pro-survival functions in childhood medulloblastoma
-  - **New dataset** - Clear Cell Sarcoma of the Kidney
-  - **New dataset** - Discovery of novel recurrent mutations and rearrangements in early T-cell precursor acute lymphoblastic leukemia by whole genome sequencing
-  - **New dataset** - Distinctive microRNA signature of medulloblastomas associated with the WNT signaling pathway
-  - **New dataset** - Early Relapse in ALL is identified by Time To Leukemia in NOD/SCID mice and is characterized by a gene signature involving survival pathways
-  - **New dataset** - Expression data from Burkitt lymphoma cases
-  - **New dataset** - Frequent driver mutations in histone H3.3 and chromatin remodeling genes in paediatric glioblastoma
-  - **New dataset** - Gene expression analysis of primitive neuroectodermal tumors
-  - **New dataset** - Gene expression data from glioblastoma tumor samples
-  - **New dataset** - Gene expression data of glucocorticoid resistant and sensitive acute lymphoblastic leukemia cell lines
-  - **New dataset** - Gene expression profiling of children affected by acute lymphoblastic leukemia
-  - **New dataset** - Gene expression profiling of children affected by Alveolar Rhabdomyosarcoma (ARMS)
-  - **New dataset** - Gene expression profiling of MYC-amplified medulloblastoma cell lines treated by JQ1, a BET bromodomain inhibitor
-  - **New dataset** - Genome-wide SNP Profiling of 27 Neuroblastoma Cell Lines
-  - **New dataset** - GRHL1 acts as a tumor suppressor in neuroblastoma and is negatively regulated by MYCN and HDAC3
-  - **New dataset** - In vitro prednisolone resistance signature in MLL-rearranged infant ALL
-  - **New dataset** - miR-483 overexpression in human sarcoma cell line MHH-ES-1
-  - **New dataset** - MLL partner genes confer distinct biological and clinical signatures of pediatric AML, an AIEOP study
-  - **New dataset** - Novel mutations target distinct subgroups of medulloblastoma
-  - **New dataset** - Pediatric AML and Normal Bone Marrow
-  - **New dataset** - Pediatric malignant germ cell tumors show characteristic transcriptome profiles
-  - **New dataset** - Pediatric Sarcoma: Rhabdomyosarcoma & Ewing's Sarcoma
-  - **New dataset** - The leukemia-specific fusion gene ETV6/RUNX1 perturbs distinct key biological functions primarily by gene repression
-  - **New dataset** - Transcriptomic Profiling of 39 Neuroblastoma Cell Lines
-  - **New dataset** - Transient treatment with epigenetic modifiers yields stable neuroblastoma stem cells resembling aggressive large-cell neuroblastomas
+  - **New dataset** - Bone morphogenetic protein-7 is a MYC target with pro-survival functions in childhood medulloblastoma
+  - **New dataset** - Clear Cell Sarcoma of the Kidney
+  - **New dataset** - Discovery of novel recurrent mutations and rearrangements in early T-cell precursor acute lymphoblastic leukemia by whole genome sequencing
+  - **New dataset** - Distinctive microRNA signature of medulloblastomas associated with the WNT signaling pathway
+  - **New dataset** - Early Relapse in ALL is identified by Time To Leukemia in NOD/SCID mice and is characterized by a gene signature involving survival pathways
+  - **New dataset** - Expression data from Burkitt lymphoma cases
+  - **New dataset** - Frequent driver mutations in histone H3.3 and chromatin remodeling genes in paediatric glioblastoma
+  - **New dataset** - Gene expression analysis of primitive neuroectodermal tumors
+  - **New dataset** - Gene expression data from glioblastoma tumor samples
+  - **New dataset** - Gene expression data of glucocorticoid resistant and sensitive acute lymphoblastic leukemia cell lines
+  - **New dataset** - Gene expression profiling of children affected by acute lymphoblastic leukemia
+  - **New dataset** - Gene expression profiling of children affected by Alveolar Rhabdomyosarcoma (ARMS)
+  - **New dataset** - Gene expression profiling of MYC-amplified medulloblastoma cell lines treated by JQ1, a BET bromodomain inhibitor
+  - **New dataset** - Genome-wide SNP Profiling of 27 Neuroblastoma Cell Lines
+  - **New dataset** - GRHL1 acts as a tumor suppressor in neuroblastoma and is negatively regulated by MYCN and HDAC3
+  - **New dataset** - In vitro prednisolone resistance signature in MLL-rearranged infant ALL
+  - **New dataset** - miR-483 overexpression in human sarcoma cell line MHH-ES-1
+  - **New dataset** - MLL partner genes confer distinct biological and clinical signatures of pediatric AML, an AIEOP study
+  - **New dataset** - Novel mutations target distinct subgroups of medulloblastoma
+  - **New dataset** - Pediatric AML and Normal Bone Marrow
+  - **New dataset** - Pediatric malignant germ cell tumors show characteristic transcriptome profiles
+  - **New dataset** - Pediatric Sarcoma: Rhabdomyosarcoma & Ewing's Sarcoma
+  - **New dataset** - The leukemia-specific fusion gene ETV6/RUNX1 perturbs distinct key biological functions primarily by gene repression
+  - **New dataset** - Transcriptomic Profiling of 39 Neuroblastoma Cell Lines
+  - **New dataset** - Transient treatment with epigenetic modifiers yields stable neuroblastoma stem cells resembling aggressive large-cell neuroblastomas
 - Population-based Research to Optimize the Screening Process (PROSPR)
-  - **New dataset** - PROSPR 1 Breast Cancer Screening Dataset
-  - **New dataset** - PROSPR 1 Cervical Cancer Public Use Dataset
-  - **New dataset** - PROSPR 2 Cervical Cancer Public Use Dataset
+  - **New dataset** - PROSPR 1 Breast Cancer Screening Dataset
+  - **New dataset** - PROSPR 1 Cervical Cancer Public Use Dataset
+  - **New dataset** - PROSPR 2 Cervical Cancer Public Use Dataset
 - Single-cell Pediatric Cancer Atlas Portal (ScPCA) – 8 Datasets
-  - **New dataset** - Profiling the transcriptional heterogeneity of diverse pediatric solid tumors - Neuroblastoma
-  - **New dataset** - Profiling the transcriptional heterogeneity of diverse pediatric solid tumors - Rhabdomyosarcoma
-  - **New dataset** - Single cell RNA sequencing of pediatric high-grade gliomas
-  - **New dataset** - Single cell RNA sequencing of pediatric low-grade gliomas
-  - **New dataset** - Single nuclear RNA-seq and spatial transcriptomic analysis of anaplastic and favorable histology Wilms tumor
-  - **New dataset** - Single-cell gene expression and cytosine modification profiling in pediatric central nervous system tumors
-  - **New dataset** - Single-cell profiling of Acute Myeloid Leukemia for high-resolution chemo-immunotherapy target discovery
-  - **New dataset** - Single-cell sequencing of acute lymphoblastic leukemia
+  - **New dataset** - Profiling the transcriptional heterogeneity of diverse pediatric solid tumors - Neuroblastoma
+  - **New dataset** - Profiling the transcriptional heterogeneity of diverse pediatric solid tumors - Rhabdomyosarcoma
+  - **New dataset** - Single cell RNA sequencing of pediatric high-grade gliomas
+  - **New dataset** - Single cell RNA sequencing of pediatric low-grade gliomas
+  - **New dataset** - Single nuclear RNA-seq and spatial transcriptomic analysis of anaplastic and favorable histology Wilms tumor
+  - **New dataset** - Single-cell gene expression and cytosine modification profiling in pediatric central nervous system tumors
+  - **New dataset** - Single-cell profiling of Acute Myeloid Leukemia for high-resolution chemo-immunotherapy target discovery
+  - **New dataset** - Single-cell sequencing of acute lymphoblastic leukemia
 - Victorian Paediatric Cancer Consortium (VPCC)
-  - **New dataset** - Childhood Cancer Model Atlas
+  - **New dataset** - Childhood Cancer Model Atlas
 
 #### Existing Participating Resources and Datasets
 
@@ -2277,8 +2218,8 @@ The CCDC has added **5** new resources that include **38** new datasets.
 - The breadcrumb navigation has been updated to have a more distinguished coloration
 - Tooltips now display better on small windows.
 - A header image has been added to the Document Search page.
-- A new category, Image Type, has been added to the Glossary to better distinguish terms related to imaging.  Additionally, the Glossary has been updated with new acronyms and abbreviations.
-- The entries on the Site Update page now include an icon(s) to identify the Data Content Type includes in the update.  These new icons convey information across all the newly added datasets at a quick glance.
+- A new category, Image Type, has been added to the Glossary to better distinguish terms related to imaging. Additionally, the Glossary has been updated with new acronyms and abbreviations.
+- The entries on the Site Update page now include an icon(s) to identify the Data Content Type includes in the update. These new icons convey information across all the newly added datasets at a quick glance.
 - The User Guide is updated to reflect new and updated resource information.
 
 ### Search Catalog
@@ -2288,7 +2229,7 @@ The CCDC has added **5** new resources that include **38** new datasets.
 
 ### Dataset Details
 
-- A new set of dynamic charts has been added to the Dataset Details page to display the available Core Data Elements.  Each available core data element can now be displayed as a donut chart with age displayed as a histogram.
+- A new set of dynamic charts has been added to the Dataset Details page to display the available Core Data Elements. Each available core data element can now be displayed as a donut chart with age displayed as a histogram.
 - Links in the dataset’s Description are now functional.
 
 ### Participating Resources
@@ -2302,7 +2243,7 @@ The CCDC has added **5** new resources that include **38** new datasets.
 
 ### Additional Support and Inquiries
 
-Users requiring any additional support or with any questions about the CCDC can contact Childhood Cancer Data Initiative at [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov).  Please include a name and a reference to the CCDC with the submitted inquiry.
+Users requiring any additional support or with any questions about the CCDC can contact Childhood Cancer Data Initiative at [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov). Please include a name and a reference to the CCDC with the submitted inquiry.
 
 | Property | Value |
 | --- | --- |
@@ -2316,9 +2257,7 @@ Users requiring any additional support or with any questions about the CCDC can 
 ### November 17, 2022 | Release Notes
 
 The National Cancer Institute is pleased to announce the addition of the CCDI resource to the Childhood Cancer Data Catalog website: <https://datacatalog.ccdi.cancer.gov/>.
-With the addition of the CCDI project (4) as well as updates to the dbGaP (46), GDC (1), and TCIA (1) resources the catalog now includes 52 new datasets.  Additionally, there is now a site-wide scroll back to top button in the lower right-hand corner to improve site navigation.
-
-Additional details are listed below:
+With the addition of the CCDI project (4) as well as updates to the dbGaP (46), GDC (1), and TCIA (1) resources the catalog now includes 52 new datasets. Additionally, there is now a site-wide scroll back to top button in the lower right-hand corner to improve site navigation.
 
 ### Data Updates
 
@@ -2337,7 +2276,7 @@ The CCDC has added **1** new resource that include **4** new datasets.
 **7** existing resources have been updated to include the addition of **48** new datasets and numerous updates to existing datasets**.**
 
 - The Cancer Imaging Archive (TCIA)
-  - **New dataset** - Annotations for Chemotherapy and Radiation Therapy in Treating Young Patients with Newly Diagnosed, Previously Untreated, High-Risk Medulloblastoma/PNET (ACNS0332-Tumor-Annotations)
+  - **New dataset** - Annotations for Chemotherapy and Radiation Therapy in Treating Young Patients with Newly Diagnosed, Previously Untreated, High-Risk Medulloblastoma/PNET (ACNS0332-Tumor-Annotations)
 - Childhood Cancer Survivor Study (CCSS)
   - Updated Data Access link
 - The database of Genotypes and Phenotypes (dbGaP)
@@ -2345,50 +2284,50 @@ The CCDC has added **1** new resource that include **4** new datasets.
   - **New dataset** - Analysis of Somatic Mutations in Pediatric AML FAB-M7 Subtype by Whole Transcriptome Sequencing
   - **New dataset** - Characterizing TP53 and PPM1D Mutations as Resistance Drivers to Radiation Therapy in Diffuse Intrinsic Pontine Gliomas
   - **New dataset** - Defining and Overcoming Intrinsic T Cell Dysfunction to Enable Pediatric Immunotherapy
-  - **New dataset** -DNA Methylation Characterization of Fusion-Positive and Fusion-Negative Rhabdomyosarcoma
-  - **New dataset** -Elucidating Transcription Regulation by Epigenetics in Neuroblastoma
-  - **New dataset** -Exome Sequencing of Childhood Wilms Tumor
-  - **New dataset** -Exome Sequencing of Pleuropulmonary Blastoma
-  - **New dataset** -Gabriella Miller Kids First Pediatric Research Program for Infantile Hemangiomas Associated with Multi-Organ Structural Birth Defects
+  - **New dataset** - DNA Methylation Characterization of Fusion-Positive and Fusion-Negative Rhabdomyosarcoma
+  - **New dataset** - Elucidating Transcription Regulation by Epigenetics in Neuroblastoma
+  - **New dataset** - Exome Sequencing of Childhood Wilms Tumor
+  - **New dataset** - Exome Sequencing of Pleuropulmonary Blastoma
+  - **New dataset** - Gabriella Miller Kids First Pediatric Research Program for Infantile Hemangiomas Associated with Multi-Organ Structural Birth Defects
   - **New dataset** - Gene Variants in Pheochromocytoma and Paraganglioma
   - **New dataset** - Genetic Underpinnings of Ethnic Disparities in Bone Toxicities Between Hispanic and Non-Hispanic Children Treated for Acute Lymphoblastic Leukemia
   - **New dataset** - Genome-Wide Association Study of Relapse of Childhood Acute Lymphoblastic Leukemia
-  - **New dataset** -Genomic Analysis of Fibrolamellar Hepatocellular Carcinoma
-  - **New dataset** -Genomic Analysis of Pediatric Low Grade Gliomas
-  - **New dataset** -Genomic Characterization of Pediatric Low-Grade Gliomas
-  - **New dataset** -Genomic Profiling of Relapsed and Refractory Childhood Cancers
-  - **New dataset** -Genomic Sequencing of Ewing Sarcoma
-  - **New dataset** -Genomic Sequencing of Pediatric Rhabdoid Cancers
-  - **New dataset** -Genomics of Pediatric Renal Medullary Carcinomas
-  - **New dataset** -Germline and Somatic Genetic Landscape of Pediatric Rhabdomyosarcoma
-  - **New dataset** -Human Pilocytic Astrocytoma Single Cell RNA Sequencing
-  - **New dataset** -Hyperdiploid Acute Lymphoblastic Leukemia RNA-Seq
-  - **New dataset** -Identification of 22 Novel Loci Associated with Susceptibility to Testicular Germ Cell Tumors
-  - **New dataset** -Mechanisms of Chemotherapy Resistance in T-ALL
-  - **New dataset** -Mechanisms of Therapy Driven Clonal Evolution in Oncogenic RAS Mutant Relapsed Acute Lymphoblastic Leukemia
-  - **New dataset** -Medulloblastoma exome sequence analysis
-  - **New dataset** -Methotrexate Clearance GWAS in Acute Lymphoblastic Leukemia (ALL) Patients
-  - **New dataset** -Modelling Multi-Dimensional ClinOmics for Precision Therapy of Children and Adolescent Young Adults with Relapsed and Refractory Cancer: A report from the Center for Cancer Research
-  - **New dataset** -National Cancer Institute - Population Structure and Natural Selection in the Epidemiology of Burkitt Lymphoma in East African Children and Minors (EMBLEM) study in Uganda
-  - **New dataset** -Neuroblastoma Genome-Wide Association Study
-  - **New dataset** -Next generation sequencing of diffuse intrinsic pontine glioma samples to identify recurrent mutations, variations, and expression patterns to define novel therapies
-  - **New dataset** -Pathogenesis and Immunity in Endemic Burkitt Lymphoma
-  - **New dataset** -Relapsed Acute Lymphoblastic Leukemia (ALL): Mutational Landscape
-  - **New dataset** -SLCO1B1 Variants and Methotrexate Clearance
-  - **New dataset** -Study of Tumor Recurrence Related to the Expression of the PAX3-FOXO1 Oncogenic Transcription Factor in Fusion-Positive Rhabdomyosarcoma
-  - **New dataset** -The Genetic Basis of Hypodiploid ALL
-  - **New dataset** -The Genomic Analysis of Medulloblastoma
-  - **New dataset** -The Genomic Complexity of Early T-Cell Progenitor Acute Lymphoblastic Leukemia
-  - **New dataset** -The genomic complexity of sporadic and inherited retinoblastoma with a matched orthotopic xenograft
-  - **New dataset** -The genomics of pilocytic astrocytoma formation in neurofibromatosis type 1
-  - **New dataset** -The Institute for Genomic Medicine at Nationwide Children's Hospital Pediatric Cancer and Blood Disorder Project
-  - **New dataset** -The UC San Diego Chronic Lymphocytic Leukemia (CLL) Study
-  - **New dataset** -Transcriptome Sequencing of Pediatric Neuroblastoma
-  - **New dataset** -Whole Exome Sequencing of Craniopharyngioma Tumors at Human Genome Sequencing Center, Baylor College of Medicine
-  - **New dataset** -Whole genome sequencing of core-binding factor leukemia
-  - **New dataset** -Whole-exome Sequencing of Intracranial Germ Cell Tumors performed at Human Genome Sequencing Center, Baylor College of Medicine
+  - **New dataset** - Genomic Analysis of Fibrolamellar Hepatocellular Carcinoma
+  - **New dataset** - Genomic Analysis of Pediatric Low Grade Gliomas
+  - **New dataset** - Genomic Characterization of Pediatric Low-Grade Gliomas
+  - **New dataset** - Genomic Profiling of Relapsed and Refractory Childhood Cancers
+  - **New dataset** - Genomic Sequencing of Ewing Sarcoma
+  - **New dataset** - Genomic Sequencing of Pediatric Rhabdoid Cancers
+  - **New dataset** - Genomics of Pediatric Renal Medullary Carcinomas
+  - **New dataset** - Germline and Somatic Genetic Landscape of Pediatric Rhabdomyosarcoma
+  - **New dataset** - Human Pilocytic Astrocytoma Single Cell RNA Sequencing
+  - **New dataset** - Hyperdiploid Acute Lymphoblastic Leukemia RNA-Seq
+  - **New dataset** - Identification of 22 Novel Loci Associated with Susceptibility to Testicular Germ Cell Tumors
+  - **New dataset** - Mechanisms of Chemotherapy Resistance in T-ALL
+  - **New dataset** - Mechanisms of Therapy Driven Clonal Evolution in Oncogenic RAS Mutant Relapsed Acute Lymphoblastic Leukemia
+  - **New dataset** - Medulloblastoma exome sequence analysis
+  - **New dataset** - Methotrexate Clearance GWAS in Acute Lymphoblastic Leukemia (ALL) Patients
+  - **New dataset** - Modelling Multi-Dimensional ClinOmics for Precision Therapy of Children and Adolescent Young Adults with Relapsed and Refractory Cancer: A report from the Center for Cancer Research
+  - **New dataset** - National Cancer Institute - Population Structure and Natural Selection in the Epidemiology of Burkitt Lymphoma in East African Children and Minors (EMBLEM) study in Uganda
+  - **New dataset** - Neuroblastoma Genome-Wide Association Study
+  - **New dataset** - Next generation sequencing of diffuse intrinsic pontine glioma samples to identify recurrent mutations, variations, and expression patterns to define novel therapies
+  - **New dataset** - Pathogenesis and Immunity in Endemic Burkitt Lymphoma
+  - **New dataset** - Relapsed Acute Lymphoblastic Leukemia (ALL): Mutational Landscape
+  - **New dataset** - SLCO1B1 Variants and Methotrexate Clearance
+  - **New dataset** - Study of Tumor Recurrence Related to the Expression of the PAX3-FOXO1 Oncogenic Transcription Factor in Fusion-Positive Rhabdomyosarcoma
+  - **New dataset** - The Genetic Basis of Hypodiploid ALL
+  - **New dataset** - The Genomic Analysis of Medulloblastoma
+  - **New dataset** - The Genomic Complexity of Early T-Cell Progenitor Acute Lymphoblastic Leukemia
+  - **New dataset** - The genomic complexity of sporadic and inherited retinoblastoma with a matched orthotopic xenograft
+  - **New dataset** - The genomics of pilocytic astrocytoma formation in neurofibromatosis type 1
+  - **New dataset** - The Institute for Genomic Medicine at Nationwide Children's Hospital Pediatric Cancer and Blood Disorder Project
+  - **New dataset** - The UC San Diego Chronic Lymphocytic Leukemia (CLL) Study
+  - **New dataset** - Transcriptome Sequencing of Pediatric Neuroblastoma
+  - **New dataset** - Whole Exome Sequencing of Craniopharyngioma Tumors at Human Genome Sequencing Center, Baylor College of Medicine
+  - **New dataset** - Whole genome sequencing of core-binding factor leukemia
+  - **New dataset** - Whole-exome Sequencing of Intracranial Germ Cell Tumors performed at Human Genome Sequencing Center, Baylor College of Medicine
 - Genomic Data Commons (GDC)
-  - **New dataset** - MP2PRT: Identification of Genetic Changes Associated with Relapse and/or Adaptive Resistance in Patients Registered as Favorable Histology Wilms Tumor on AREN03B2
+  - **New dataset** - MP2PRT: Identification of Genetic Changes Associated with Relapse and/or Adaptive Resistance in Patients Registered as Favorable Histology Wilms Tumor on AREN03B2
   - Updated dataset – Beat AML
   - Updated dataset – The Cancer Genome Atlas (TCGA)
   - Updated dataset – Clinical Proteomic Tumor Analysis Consortium (CPTAC)
@@ -2404,13 +2343,13 @@ The CCDC has added **1** new resource that include **4** new datasets.
 
 ### General Site Updates
 
-- The CCDC site has been updated with a scroll back to top button in the lower right-hand corner.  This new button will take users to the top of the page if selected.
+- The CCDC site has been updated with a scroll back to top button in the lower right-hand corner. This new button will take users to the top of the page if selected.
 - The Glossary has been updated with new acronyms and abbreviations.
 - The User Guide is updated to reflect new and updated resource information.
 
 ### Search Catalog
 
-- Removed ‘Case ID’ from the ‘Projects’ field on Dataset Details page.  This text was a relic of digest data entry.
+- Removed ‘Case ID’ from the ‘Projects’ field on Dataset Details page. This text was a relic of digest data entry.
 
 ### Participating Resources
 
@@ -2419,7 +2358,7 @@ The CCDC has added **1** new resource that include **4** new datasets.
 
 ### Additional Support and Inquiries
 
-Users requiring any additional support or with any questions about the CCDC can contact Childhood Cancer Data Initiative at [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov).  Please include a name and a reference to the CCDC with the submitted inquiry.
+Users requiring any additional support or with any questions about the CCDC can contact Childhood Cancer Data Initiative at [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov). Please include a name and a reference to the CCDC with the submitted inquiry.
 
 | Property | Value |
 | --- | --- |
@@ -2434,8 +2373,6 @@ Users requiring any additional support or with any questions about the CCDC can 
 
 The National Cancer Institute is pleased to announce the additional of the dbGaP resource to the Childhood Cancer Data Catalog website: <https://datacatalog.ccdi.cancer.gov/>.
 This addition includes six new datasets and the re-organization of two existing datasets into the new dbGaP resource. Additionally, CCDC Submission Template glossary has been updated to better assist those looking to submit additional resources.
-
-Additional details are listed below:
 
 ### Data Updates
 
@@ -2480,7 +2417,7 @@ The CCDC has added **1** new resource that include **6** new datasets.
 
 ### Additional Support and Inquiries
 
-Users requiring any additional support or with any questions about the CCDC can contact Childhood Cancer Data Initiative at [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov).  Please include a name and a reference to the CCDC with the submitted inquiry.
+Users requiring any additional support or with any questions about the CCDC can contact Childhood Cancer Data Initiative at [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov). Please include a name and a reference to the CCDC with the submitted inquiry.
 
 | Property | Value |
 | --- | --- |
@@ -2494,9 +2431,7 @@ Users requiring any additional support or with any questions about the CCDC can 
 ### September 15, 2022 | Release Notes
 
 The National Cancer Institute is pleased to announce an update to the Childhood Cancer Data Catalog website: <https://datacatalog.ccdi.cancer.gov/>.
-This latest update to the site includes 19 new datasets and updates to 24 of our existing participating resources. The site now features a new site update widget on the homepage and a Site Update page dedicated to tracking changes to site data and features.  Additionally, the Search Catalog was updated to enhance search clarity and usability.
-
-Additional details are listed below:
+This latest update to the site includes 19 new datasets and updates to 24 of our existing participating resources. The site now features a new site update widget on the homepage and a Site Update page dedicated to tracking changes to site data and features. Additionally, the Search Catalog was updated to enhance search clarity and usability.
 
 ### Data Updates
 
@@ -2517,7 +2452,7 @@ The CCDC has added **5** new resources that include **5** new datasets.
 
 #### Existing Participating Resources and Datasets
 
-**24** existing resources have been updated to include the addition of **14**new datasets and numerous updates to existing datasets.
+**24** existing resources have been updated to include the addition of **14** new datasets and numerous updates to existing datasets.
 
 - Childhood Cancer Survivor Study (CCSS)
   - Childhood Cancer Survivor Study dataset
@@ -2630,16 +2565,16 @@ The CCDC has added **5** new resources that include **5** new datasets.
 
 ### General Site Updates
 
-- A new Featured Items widget has been added to the homepage.  The new widget highlights site changes and shares information related to the CCDI.
+- A new Featured Items widget has been added to the homepage. The new widget highlights site changes and shares information related to the CCDI.
 - A new Site Updates page, available under the About menu, was added to share information on site data and feature changes. 
   - Site updates are listed in chronological order from newest to oldest.
   - Each update appears as a scrollable entry listing site updates and changes.
   - Updates can be exported as a PDF.
 - The site header and menu bar have been updated to float at the top of the site pages.
 - External links, links that navigate away from <https://datacatalog.ccdi.cancer.gov/> domain, are now marked with an icon and will open in a new tab or window.
-- Site free text search fields (Search Catalog & Documentation Search) now include a clear icon (‘X’) that will clear the field of all typed text. Note:   This icon will not clear or reset a search. The “X” clears the search terms from the search field allowing data entry of different text.
+- Site free text search fields (Search Catalog & Documentation Search) now include a clear icon (‘X’) that will clear the field of all typed text. Note: This icon will not clear or reset a search. The “X” clears the search terms from the search field allowing data entry of different text.
 - The site tooltips were updated to address a rare issue where the definition would obscure the word being defined.
-- The Homepage carousel now includes all available resources on the site (up from 10).  These resources will automatically advance every few seconds.
+- The Homepage carousel now includes all available resources on the site (up from 10). These resources will automatically advance every few seconds.
 - Homepage text was updated to better reflect the information available on the site
 - The Documentation Search page no longer includes a pagination bar when one is not needed.
 - The Glossary has been updated with new acronyms and abbreviations.
@@ -2647,7 +2582,7 @@ The CCDC has added **5** new resources that include **5** new datasets.
 
 ### Search Catalog
 
-- The catalog search was enhanced and expanded to search all data fields within a dataset.  The additional searched fields will appear on the Card View under the ‘Other Match’ field.
+- The catalog search was enhanced and expanded to search all data fields within a dataset. The additional searched fields will appear on the Card View under the ‘Other Match’ field.
 - The Card View display has been updated for new visual emphasis and search clarity.
   - Searched terms now appear with a blue highlight in addition to bold emphasis.
   - The tan highlighting was removed from Case Disease Diagnosis.
@@ -2670,7 +2605,7 @@ The CCDC has added **5** new resources that include **5** new datasets.
 
 ### Additional Support and Inquiries
 
-Users requiring any additional support or with any questions about the CCDC can contact Childhood Cancer Data Initiative at [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov).  Please include a name and a reference to the CCDC with the submitted inquiry.
+Users requiring any additional support or with any questions about the CCDC can contact Childhood Cancer Data Initiative at [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov). Please include a name and a reference to the CCDC with the submitted inquiry.
 
 | Property | Value |
 | --- | --- |
@@ -2686,8 +2621,6 @@ Users requiring any additional support or with any questions about the CCDC can 
 The National Cancer Institute is pleased to announce an update of the Childhood Cancer Data Catalog website.
 This latest update to the site includes changes to support mobile browsing, improved accessibility, enhancement of site search tools, and new and updated resource data, including a new resource type, *Knowledgebase*.
 
-Additional details are listed below:
-
 ### General
 
 - Elements of responsive design have been incorporated into the site to improve small screen and mobile viewing experience.
@@ -2699,7 +2632,7 @@ Additional details are listed below:
 
 ### Search Catalog
 
-- *Resource* has been added as an additional filter option.  
+- *Resource* has been added as an additional filter option. 
   - Users can now select a resource(s) in the left-hand column to limit results to a specific resource or set of resources.
   - Selecting multiple resources functions with the OR Boolean operator
   - Resource and text searches work together as an AND Boolean search.
@@ -2753,7 +2686,7 @@ Two existing resources have been updated to include the addition of 2 new datase
 
 ### Additional Support and Inquiries
 
-Users requiring any additional support or with any questions about the CCDC can contact Childhood Cancer Data Initiative at [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov).  Please include a name and a reference to the CCDC with the submitted inquiry
+Users requiring any additional support or with any questions about the CCDC can contact Childhood Cancer Data Initiative at [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov). Please include a name and a reference to the CCDC with the submitted inquiry
 
 | Property | Value |
 | --- | --- |
@@ -2766,8 +2699,8 @@ Users requiring any additional support or with any questions about the CCDC can 
 # CCDC 1.0 Release!
 ### May 2, 2022 | Release Notes
 
-The Childhood Cancer Data Catalog (CCDC) is a new resource sharing website developed as part of the National Cancer Institute’s (NCI) [Childhood Cancer Data Initiative (CCDI)](https://www.cancer.gov/research/areas/childhood/childhood-cancer-data-initiative).  The CCDC is an inventory of pediatric oncology data resources which includes childhood cancer repositories, registries, data commons, web sites, as well as other catalogs that either manage or refer to pediatric cancer data.
-The site currently includes 71 unique datasets from 21 different identified participating resources.  These datasets represent almost 250,000 participants and 275,000 biological samples.
+The Childhood Cancer Data Catalog (CCDC) is a new resource sharing website developed as part of the National Cancer Institute’s (NCI) [Childhood Cancer Data Initiative (CCDI)](https://www.cancer.gov/research/areas/childhood/childhood-cancer-data-initiative). The CCDC is an inventory of pediatric oncology data resources which includes childhood cancer repositories, registries, data commons, web sites, as well as other catalogs that either manage or refer to pediatric cancer data.
+The site currently includes 71 unique datasets from 21 different identified participating resources. These datasets represent almost 250,000 participants and 275,000 biological samples.
 The initial site release includes the following pages and features:
 - Home page
 - Search Catalog page
@@ -2781,25 +2714,25 @@ The aim of the CCDC is to help researchers, clinicians, and citizen scientists l
 
 ### Home page
 
-The Home page is the landing page for users navigating to the site.  It provides a brief introduction to the site, allows users to perform a search of the cataloged data resources, and shares a limited number of participating resources available on the site.  The home page features a rotating carousel of participating resources available on the site that users can navigate. 
+The Home page is the landing page for users navigating to the site. It provides a brief introduction to the site, allows users to perform a search of the cataloged data resources, and shares a limited number of participating resources available on the site. The home page features a rotating carousel of participating resources available on the site that users can navigate.
 
 ### Search Catalog Page
 
-The Search Catalog page allows users to search the 71 individual datasets cataloged within the CCDC. A free text search allows users to filter datasets and review introductory information for each dataset.  Additional information about each dataset is further available.
+The Search Catalog page allows users to search the 71 individual datasets cataloged within the CCDC. A free text search allows users to filter datasets and review introductory information for each dataset. Additional information about each dataset is further available.
 
-The catalog currently includes the following types of datasets. 
+The catalog currently includes the following types of datasets.
 
 - **Collection** - A group of datasets collected for any reason by an organization of researchers, stewards, or stakeholders either pertaining to a common theme or for a common purpose.
 - **Program** - A coherent assembly of plans, project activities, and supporting resources contained within an administrative framework, the purpose of which is to implement an organization's mission or some specific program-related aspect of that mission.
 - **Project** - Any specifically defined piece of work that is undertaken or attempted to meet the goals of a program and that involves one or more case studies. Also known as a Study or Trial.
 
-Each catalog search results can be exported as a comma-separated values (.csv) file for local manipulation or record keeping.  These export files contain all the information and data elements for a dataset that has been gathered for the CCDC.
+Each catalog search results can be exported as a comma-separated values (.csv) file for local manipulation or record keeping. These export files contain all the information and data elements for a dataset that has been gathered for the CCDC.
 
 ### Dataset Details Page
 
-Each dataset has a dedicated page containing a listing of all metadata the CCDC site has collected about that dataset.  These pages contain both administrative information as well as count and summary data.  Administrative information, such as point of contact, is available for further exploration of a dataset. 
+Each dataset has a dedicated page containing a listing of all metadata the CCDC site has collected about that dataset. These pages contain both administrative information as well as count and summary data. Administrative information, such as point of contact, is available for further exploration of a dataset.
 
-Summary data for each dataset is broken down into either core or additional data elements.  Core data elements describe and provide count information about data within the dataset. Additional Data Elements provide supporting information about a dataset.
+Summary data for each dataset is broken down into either core or additional data elements. Core data elements describe and provide count information about data within the dataset. Additional Data Elements provide supporting information about a dataset.
 
 The following core data elements are displayed for each dataset if available:
 
@@ -2828,7 +2761,7 @@ The following additional data elements are displayed for each dataset if availab
 
 ### Participating Resource Page
 
-The Participating Resource page allows users to view and filter the 21 resources that CCDC dataset are drawn from.  The resource page includes introductory information for each resource available on the site along with a link to view a more detailed information.  Resources on the page can be filtered by ‘Resource Type’ and by ‘Data Content Type’ to view targeted resources.
+The Participating Resource page allows users to view and filter the 21 resources that CCDC dataset are drawn from. The resource page includes introductory information for each resource available on the site along with a link to view a more detailed information. Resources on the page can be filtered by ‘Resource Type’ and by ‘Data Content Type’ to view targeted resources.
 
 The catalog currently includes the following types of resources.
 
@@ -2839,7 +2772,7 @@ The catalog currently includes the following types of resources.
 
 ### Participating Resource Detail Page
 
-For each participating resource has a page of detailed information about that resource.  The Participating Resource Details page contains a listing of metadata the CCDC site has collected about a resource as administrative information, descriptive information, and a listing associated datasets.
+For each participating resource has a page of detailed information about that resource. The Participating Resource Details page contains a listing of metadata the CCDC site has collected about a resource as administrative information, descriptive information, and a listing associated datasets.
 
 The administrative data contains the name of the dataset, a link to the resources own data sharing website, and Point of Contact information for the dataset. The descriptive information about the resource includes a resource description, information on a resource’s own analysis tools, information on data type of available data, and information on accessing data. Each resource includes a listing of all associated dataset available on the CCDC site.
 
@@ -2853,11 +2786,11 @@ The CCDC Glossary page provides a listing of terms and abbreviations used on the
 
 ### Documentation Search Page
 
-The Document Search is a free-text search tool that will search across the three static CCDC site pages - Home page, About CCDI Data Catalog, and the Glossary.  User can use the search feature to search the site for a topic of interest.
+The Document Search is a free-text search tool that will search across the three static CCDC site pages - Home page, About CCDI Data Catalog, and the Glossary. User can use the search feature to search the site for a topic of interest.
 
-Additional Support and Inquiries 
+Additional Support and Inquiries
 
-Users requiring any additional support or with any questions about the CCDC can contact Childhood Cancer Data Initiative at [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov).  Please include a name and a reference to the CCDC with submitted any inquiry.
+Users requiring any additional support or with any questions about the CCDC can contact Childhood Cancer Data Initiative at [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov). Please include a name and a reference to the CCDC with submitted any inquiry.
 
 | Property | Value |
 | --- | --- |
