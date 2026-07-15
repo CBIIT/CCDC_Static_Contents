@@ -967,6 +967,7 @@ Users requiring any additional support or with any questions about the CCDC can 
 ### September 25, 2024 | Release Notes
 
 September’s release includes updates to several existing resources and the addition of five new datasets: CCDI’s National Childhood Cancer Registry Data Platform and dbGaP’s Exploring the Microbiome-Gut-Brain Axis with Respect to Psychoneurological Symptoms for Children with Solid Tumors, Correlative Studies for Protocol #14-C-0059: T Cells Expressing an Anti-GD2 Chimeric Antigen Receptor in Patients with GD2+ Solid Tumors, a Collaboration with CIMAC-CIDC, Aberrant  Activation of Wound Healing Programs within the Metastatic Niche Facilitates Lung Colonization by Osteosarcoma Cells, and Early Detection of Malignant and Pre-Malignant Peripheral Nerve Tumors Using Cell-Free DNA Fragmentomics. Counts were updated for the Human Cancer Models Initiative (HCMI) and Pediatric Cancer Data Commons (PCDC) resources, and clinical trial lists were added to multiple datasets for the Biopathology Center (BPC). Additional changes were made to repository links, resource URLs, and reference links. No new features were added in this release.
+
 Detailed updates are described below.
 
 ### Data Updates
@@ -1034,6 +1035,7 @@ Users requiring any additional support or with any questions about the CCDC can 
 ### August 21, 2024 | Release Notes
 
 The August release includes numerous updates to existing resources and six new datasets: CCDI’s Single-Cell Atlas of NF1 Nerve Sheath Tumors and Identification and Targeting of Treatment Resistant Progenitor Populations in T-cell Acute Lymphoblastic Leukemia; TCIA’s MR Imaging of Pediatric Subjects with High-Grade Gliomas (DFCI-BCH-BWH-PEDs-HGG); and ScPCA’s Single-cell Atlas of Pediatric Sarcoma, Single-cell profiling of pediatric bone sarcoma, and Profiling the transcriptional heterogeneity of diverse pediatric solid tumors - Osteosarcoma. Additional changes include updated counts of seven resources, updated case disease diagnosis lists for two resources, and updated references, resource-level properties, and other minor changes for numerous resources. Links were removed for the NCI CCSG CCDI Supplement Additional Genomic Submission and the ICGC Data Portal, and datasets were removed from Kids First Data Resource (ICR-DIPG, TARGET-AML, TARGET-NB, and PBTA-PNOC) and the Cancer Genome Characterization Initiative (NHL). No new functional updates were made to the user interface, but a critical software update was made to mitigate a potential security vulnerability.
+
 Detailed updates are described below. [*Edited 9/25/2024 to correct errors in resource and dataset count summaries*]
 
 ### Data Updates
@@ -1134,7 +1136,9 @@ Users requiring any additional support or with any questions about the CCDC can 
 ### June 12, 2024 | Release Notes
 
 This release of the Childhood Cancer Data Catalog includes 4 new datasets in 3 resources, updated counts from the CancerModels.org and Patient-Derived Xenograft and Advanced In Vivo Models (PDX-AIM) datasets, and a reorganization of the Childhood Cancer and Leukemia International Consortium (CLIC) dataset as a part of the World Health Organization - International Agency for Research on Cancer (WHO-IARC).
+
 Additional functional improvements include the clean-up of an issue resulting in blocks of unreadable text in the site updates export PDFs, and updating the DNS certificate for the Catalog.
+
 Detailed data and site updates are described below.
 
 ### Data Updates
@@ -1187,7 +1191,9 @@ Users requiring any additional support or with any questions about the CCDC can 
 ### May 17, 2024 | Release Notes
 
 May Catalog updates include 13 new datasets, in addition to a disease list from Xena Browser and updated counts from the St. Jude Cloud Real-Time Clinical Genomics and PDX Development and Trial Centers PDXNet Portal PDMR datasets. This update also includes the addition of The South African National Cancer Registry (NCR) and the World Health Organization - International Agency for Research on Cancer (WHO-IARC). NCR has demographic, clinical, and reporting source cancer registration data and has played a critical role in the development of cancer prevention and control policy for the country. The objective of IARC is to promote international collaboration in cancer research so that preventive measures may be adopted, and the burden of disease and associated suffering reduced.
+
 A function to pause the Resource Carousel has been added, allowing users to interact with and digest the displayed content at their preferred pace.
+
 Detailed data and site updates are described below.
 
 ### Data Updates
@@ -1254,7 +1260,9 @@ Users requiring any additional support or with any questions about the CCDC can 
 ### April 10, 2024 | Release Notes
 
 The April update of the Catalog includes the addition of 16 new datasets and the Genomics Evidence Neoplasia Information Exchange (GENIE) resource. The GENIE resource is a publicly accessible cancer registry of real-world clinico-genomic data assembled through data sharing between 19 leading international cancer centers coordinated through the American Association for Cancer Research (AACR).
+
 The Catalog now features a new [Contribute to the CCDC](https://datacatalog.ccdi.cancer.gov/contribute) page dedicated to providing information about submitting data and joining the CCDC’s collection of community resources.
+
 Explore the data and site updates in more detail below.
 
 ### Data Updates
@@ -1320,6 +1328,7 @@ Users requiring any additional support or with any questions about the CCDC can 
 ### March 13, 2024 | Release Notes
 
 This release of the Catalog includes updates for 5 existing resources with 11 new datasets and other data updates. Among the new dataset are 2 additions to the Childhood Cancer Data Initiative resource: one new project dataset, Genomic Analysis in Pediatric Malignancies, and one new analytic tool set, Center for Computational and Genomic Medicine Analytic Tools.
+
 Explore the data and site updates in more detail below.
 
 ### Data Updates
@@ -1369,7 +1378,9 @@ Users requiring any additional support or with any questions about the CCDC can 
 ### February 14, 2024 | Release Notes
 
 This update includes the addition of the National Clinical Trials Network (NCTN) Navigator and theCancer Epidemiology Descriptive Cohort Database (CEDCD). The NCTN Navigator allows Investigators to query from available biospecimens, and to request biospecimens to validate exploratory correlative analysis hypotheses. The CEDCD is a searchable database that contains general study information (e.g., eligibility criteria and size), the type of data collected at baseline, cancer sites, number of participants diagnosed with cancer, and biospecimen information to facilitate collaboration and highlight the opportunities for research within existing cohort studies.
+
 The Catalog also updated 9 existing resources, including 8 new datasets, along with numerous data updates.
+
 Explore the data and site updates in more detail below.
 
 ### Data Updates
@@ -1439,7 +1450,9 @@ Users requiring any additional support or with any questions about the CCDC can 
 ### January 17, 2024 | Release Notes
 
 This update includes the addition of the cBioPortal for Cancer Genomics repository and the Innovative Therapies for Children with Cancer Paediatric Preclinical Proof-of-Concept Platform (ITCC-P4) program. The cBioPortal for Cancer Genomics is a tool for interactive exploration of genomics data sets that aims to lower the barriers between complex genomic data and cancer researchers. The ITCC-P4 is a multi-country consortium that aims to establish new patient-derived preclinical models of high-risk pediatric tumors which can be fully characterized.
+
 The Catalog also updated 8 existing resources, including 1 new dataset, along with numerous data updates.
+
 Explore the data and site updates in more detail below.
 
 ### Data Updates
@@ -1502,7 +1515,9 @@ Users requiring any additional support or with any questions about the CCDC can 
 ### December 13, 2023 | Release Notes
 
 This update includes the addition of the Osteosarcoma Explorer (OSE) analytical tool. The OSE is a web portal that incorporates a rich array of clinical, genomic, proteomic, and pathological imaging data for use with patient query, online analysis, and digital pathology visualization tools.
+
 The Catalog also updated 6 existing resources, including 1 new dataset, along with numerous data updates.
+
 Explore the data and site updates in more detail below.
 
 ### Data Updates
@@ -1551,6 +1566,7 @@ Users requiring any additional support or with any questions about the CCDC can 
 ### November 15, 2023 | Release Notes
 
 This update includes additional count information for the Childhood Cancer Data Initiative and the Victorian Paediatric Cancer Consortium resources as well as an update to the NCI Imaging Data Commons.
+
 Explore the data and site updates in more detail below.
 
 ### Data Updates
@@ -1587,7 +1603,9 @@ Users requiring any additional support or with any questions about the CCDC can 
 ### October 19, 2023 | Release Notes
 
 This update includes the addition of Imaging Data Commons (IDC). The IDC is a cloud-based repository of publicly available cancer imaging data co-located with the analysis and exploration tools and resources. This new resource adds the Rhabdomyosarcoma (RMS) Mutation Prediction dataset which contains manifest information on hematoxylin and eosin (H&E) stained images available in IDC.
+
 The Catalog also updated existing resources to add 4 datasets along with numerous data updates.
+
 Explore the data and site updates in more detail below.
 
 ### Data Updates
@@ -1650,6 +1668,7 @@ Users requiring any additional support or with any questions about the CCDC can 
 ### September 20, 2023 | Release Notes
 
 This update includes the addition of 2 new datasets to the database of Genotypes and Phenotypes (dbGaP) resource and the addition of the TCIABrowser, a tool to connect to the TCIA to browse different collections, patient subjects, studies, and series as well as download the images and visualize them in 3D slicer. Additionally, 5 other resources have been updated with new dataset information.
+
 Explore the data and site updates in more detail below.
 
 ### Data Updates
@@ -1697,7 +1716,9 @@ Users requiring any additional support or with any questions about the CCDC can 
 ### August 16, 2023 | Release Notes
 
 This update includes the addition of Biorepository as a new Resource Type. This new resource type expands the available resources to include resources that act as libraries for biospecimens, allowing for the biospecimens to be available for use in future research. This initial update includes both national and international biorepositories.
+
 The Catalog is also expanded to add 4 new resources and 10 new datasets.
+
 Explore the data and site updates in more detail below.
 
 ### Data Updates
@@ -1760,7 +1781,9 @@ Users requiring any additional support or with any questions about the CCDC can 
 ### July 19, 2023 | Release Notes
 
 This update includes the addition of two new analytic tools—the *Cancer Research Institute (CRI) iAtlas* and *The Cancer Proteome Atlas (TCPA)—*and the addition of one new repository—the *Childhood Cancer Repository*. The CRI iAtlas is an interactive web platform that provides a set of analytic tools for studying interactions between tumors and the immune microenvironment. The TCPA provides a data portal for users to access and interact with proteomics datasets. The Childhood Cancer Repository banks and distributes validated cell lines and patient-derived xenografts (PDXs) established from childhood cancers to investigators seeking to do research. Additionally, three existing resources have been updated to include new participant and sample count information.
+
 This update also includes a new guide providing information about how to access, query, and process data from the Childhood Cancer Data Initiative (CCDI) stored at the NCI’s Cancer Data Service (CDS). The CCDI studies that submit data to the CDS are registered with the National Center for Biotechnology Information's database of Genotypes and Phenotypes (dbGaP), which maintains a list of the subject IDs, sample IDs, and consents.
+
 Explore the data and site updates in more detail below.
 
 ### Data Updates
@@ -1808,6 +1831,7 @@ Users requiring any additional support or with any questions about the CCDC can 
 ### June 14, 2023 | Release Notes
 
 This update includes the addition of the CancerModels.Org catalog resource. CancerModels.Org is a free, open-source cancer research platform that aggregates clinical, genomic, and functional data from patient-derived xenografts, organoids and cell lines. The resource currently has over 7,000 patient-derived cancer models available for the cancer community. Additionally, 7 existing resources have been updated to include 13 new datasets, 8 of which come from the Single-cell Pediatric Cancer Atlas Portal (ScPCA).
+
 Explore the data and site updates in more detail below.
 
 ### Data Updates
@@ -1872,7 +1896,9 @@ Users requiring any additional support or with any questions about the CCDC can 
 ### May 17, 2023 | Release Notes
 
 The National Cancer Institute is pleased to announce an update to the Childhood Cancer Data Catalog website: <https://datacatalog.ccdi.cancer.gov/>.
+
 This update includes the addition of the Cancer Dependency Map (DepMap) as a new analytic tool resource. The DepMap portal is an open access to analytical and visualization toolsets using broad panels of cancer models that represent the diversity of human cancers to identify and understand the landscape of cancer dependencies and create a resource for drug target and biomarker discovery. Additionally, 6 existing resources have been updated to included new count information.
+
 Explore the data and site updates in more detail below.
 
 ### Data Updates
@@ -1926,7 +1952,9 @@ Users requiring any additional support or with any questions about the CCDC can 
 ### April 19, 2023 | Release Notes
 
 The National Cancer Institute is pleased to announce an update to the Childhood Cancer Data Catalog website: <https://datacatalog.ccdi.cancer.gov/>.
+
 This update includes the addition of the Xena Browser as a new analytic tool resource. Xena Browser is an online exploration tool that allows users to look at functional genomic data sets for correlations between genomic and/or phenotypic variables. Additionally, 8 existing resources have been updated to include 7 new datasets, 5 of which come from The Cancer Imaging Archive (TCIA).
+
 Explore the data and site updates in more detail below:
 
 ### Data Updates
@@ -1995,7 +2023,9 @@ Users requiring any additional support or with any questions about the CCDC can 
 ### March 15, 2023 | Release Notes
 
 The National Cancer Institute is pleased to announce an update to the Childhood Cancer Data Catalog website: <https://datacatalog.ccdi.cancer.gov/>.
+
 This update includes the addition of 3 new resources: All of Us, Greehey Children's Cancer Research Institute Xenograft & Cell-Lines Core, and the Surveillance, Epidemiology, and End Results (SEER) program. With these new resources and updates to the CCDI and dbGaP resources, the catalog has added 11 new datasets. Additionally, the Catalog release includes numerous updates to the data and information for 7 existing resources across multiple datasets.
+
 Those looking to access CCDI data now have a new direct link to CCDI Studies in the menu bar.
 
 ### Data Updates
@@ -2060,7 +2090,9 @@ Users requiring any additional support or with any questions about the CCDC can 
 ### February 15, 2023 | Release Notes
 
 The National Cancer Institute is pleased to announce the addition of Epidemiologic as a data content type to the Childhood Cancer Data Catalog website: <https://datacatalog.ccdi.cancer.gov/>. This new data type allows the Catalog to better categorize data relating to the study of the distribution and determinants of health-related states or events (including disease) in populations, and the application of this study to the control of diseases and other health problems. Both the Childhood Cancer & Leukemia International Consortium (CLIC) and the National Childhood Cancer Registry Explorer (NCCR) have been re-categorized to capture their inclusion of epidemiologic data.
+
 The Catalog is also expanded to add 1 new resource, Fibrolamellar Registry, with 1 new dataset.
+
 There are several small site improvements in this update.
 
 ### Data Updates
@@ -2136,7 +2168,9 @@ Users requiring any additional support or with any questions about the CCDC can 
 ### January 11, 2023 | Release Notes
 
 The National Cancer Institute is pleased to announce the addition of the Analytic Tool resource type to the Childhood Cancer Data Catalog website: <https://datacatalog.ccdi.cancer.gov/>. This new resource type allows the Catalog to capture any platform, methodology, framework or other software designed for the use of and interpretation of biomedical research data and expands its reach to connect with even more resources. For this initial 2023 release, we are adding 3 Analytic Tool resources with 8 new datasets – Cancer Genomic Cloud (CGC) (4), HitWalker2 (1), and Vizome (3).
+
 The Catalog is also expanded to add 5 new resources with 38 new datasets - Gene Expression Omnibus (GEO) (25), Childhood Leukemia International Consortium (CLIC) (1), Population-based Research to Optimize the Screening Process (PROSPR) (3), Single-cell Pediatric Cancer Atlas Portal (ScPCA) (8), Victorian Paediatric Cancer Consortium (VPCC) (1).
+
 There are several site improvements in this update, including a new dynamic chart to display Core Data Elements on the Dataset Details page.
 
 ### Data Updates
@@ -2263,6 +2297,7 @@ Users requiring any additional support or with any questions about the CCDC can 
 ### November 17, 2022 | Release Notes
 
 The National Cancer Institute is pleased to announce the addition of the CCDI resource to the Childhood Cancer Data Catalog website: <https://datacatalog.ccdi.cancer.gov/>.
+
 With the addition of the CCDI project (4) as well as updates to the dbGaP (46), GDC (1), and TCIA (1) resources the catalog now includes 52 new datasets. Additionally, there is now a site-wide scroll back to top button in the lower right-hand corner to improve site navigation.
 
 ### Data Updates
@@ -2378,6 +2413,7 @@ Users requiring any additional support or with any questions about the CCDC can 
 ### October 18, 2022 | Release Notes
 
 The National Cancer Institute is pleased to announce the additional of the dbGaP resource to the Childhood Cancer Data Catalog website: <https://datacatalog.ccdi.cancer.gov/>.
+
 This addition includes six new datasets and the re-organization of two existing datasets into the new dbGaP resource. Additionally, CCDC Submission Template glossary has been updated to better assist those looking to submit additional resources.
 
 ### Data Updates
@@ -2437,6 +2473,7 @@ Users requiring any additional support or with any questions about the CCDC can 
 ### September 15, 2022 | Release Notes
 
 The National Cancer Institute is pleased to announce an update to the Childhood Cancer Data Catalog website: <https://datacatalog.ccdi.cancer.gov/>.
+
 This latest update to the site includes 19 new datasets and updates to 24 of our existing participating resources. The site now features a new site update widget on the homepage and a Site Update page dedicated to tracking changes to site data and features. Additionally, the Search Catalog was updated to enhance search clarity and usability.
 
 ### Data Updates
@@ -2625,6 +2662,7 @@ Users requiring any additional support or with any questions about the CCDC can 
 ### June 16, 2022 | Release Notes
 
 The National Cancer Institute is pleased to announce an update of the Childhood Cancer Data Catalog website.
+
 This latest update to the site includes changes to support mobile browsing, improved accessibility, enhancement of site search tools, and new and updated resource data, including a new resource type, *Knowledgebase*.
 
 ### General
@@ -2706,8 +2744,11 @@ Users requiring any additional support or with any questions about the CCDC can 
 ### May 2, 2022 | Release Notes
 
 The Childhood Cancer Data Catalog (CCDC) is a new resource sharing website developed as part of the National Cancer Institute’s (NCI) [Childhood Cancer Data Initiative (CCDI)](https://www.cancer.gov/research/areas/childhood/childhood-cancer-data-initiative). The CCDC is an inventory of pediatric oncology data resources which includes childhood cancer repositories, registries, data commons, web sites, as well as other catalogs that either manage or refer to pediatric cancer data.
+
 The site currently includes 71 unique datasets from 21 different identified participating resources. These datasets represent almost 250,000 participants and 275,000 biological samples.
+
 The initial site release includes the following pages and features:
+
 - Home page
 - Search Catalog page
   - Dataset Details page
@@ -2716,6 +2757,7 @@ The initial site release includes the following pages and features:
 - About
 - Glossary
 - Document search
+
 The aim of the CCDC is to help researchers, clinicians, and citizen scientists learn about existing pediatric resources for the development of new biomedical hypothesis, formation of new secondary analysis of data within existing resources, and to provide connections to existing pediatric oncology research sites.
 
 ### Home page
