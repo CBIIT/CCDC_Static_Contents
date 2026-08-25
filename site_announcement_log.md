@@ -97,9 +97,9 @@ Version 1.5.10 of the Childhood Cancer Data Initiative Data Catalog includes ove
 - Greater Bay Area Cancer Registry
 
   - **New Dataset** – Greater Bay Area Cancer Registry
--	Hematology Cancer Consortium
+- Hematology Cancer Consortium
 
- 	- **New Dataset** – Indian Acute Leukaemia Research Database
+  - **New Dataset** – Indian Acute Leukaemia Research Database
 - HIT-MED
 
   - **New Dataset** – HIT-MED
@@ -331,7 +331,7 @@ Users requiring any additional support or with any questions about the CCDC can 
 | id | catalog_release_08312026 |
 | version | v1.5.10 |
 | slug | 75 new resources and even more new datasets |
-| contentType | Clinical,Genomics/Omics,Biospecimen,Imaging,Xenograft |
+| contentType | Clinical,Genomics/Omics,Specimens,Imaging,Xenograft |
 
 # New data just in time for summer
 ### June 10, 2026 | Release Notes
