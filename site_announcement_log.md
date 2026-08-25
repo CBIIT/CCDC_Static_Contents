@@ -1,3 +1,118 @@
+# A late summer bloom of pediatric data resources
+### August 31, 2026 | Release Notes
+
+Version 1.5.10 of the Childhood Cancer Data Initiative Data Catalog includes over 70 new resources and 91 new datasets from new and existing resources. Additional changes to existing resources include updated counts, references, resource descriptions, clinical trial identifiers, dbGaP identifiers, data repository links, and clinical trial lists. The User Guide is current with version 1.5.10 updates.
+
+### Statistics at a Glance
+
+#### v1.5.10 Summary
+
+- **36th** Release
+- **541** Datasets
+- **164** Resources
+  - **25** Analytical Tools
+  - **9** Biorepositories
+  - **8** Catalogs
+  - **22** Data Repositories
+  - **5** Knowledgebases
+  - **32** Programs
+  - **3** Projects
+  - **60** Registries
+
+### Data Updates
+
+#### New Resources and Datasets
+
+**75**   new resources have been added.
+
+- African Cancer Registry Network
+
+  - **New Dataset** – AFCRN Database
+- Alaska Native Tumor Registry
+
+  - **New Dataset** – Cancer in Alaska Native People: 1969-2023
+- Australian Cancer Database
+
+  - **New Dataset** – Cancer Data in Australia 2025
+- Australian Childhood Cancer Registry
+
+  - **New Dataset** – Australian Childhood Cancer Registry 
+- Australian Particle Therapy Clinical Quality Registry
+
+  - **New Dataset** – Australian Particle Therapy Clinical Quality Registry
+- Austrian National Cancer Registry
+
+  - **New Dataset** – Cancer in Austria 2024
+
+#### Existing Participating Resources and Datasets
+
+**14**   existing resources have been updated with additional data and information.
+
+- Cancer Epidemiology Descriptive Cohort Database
+
+  - Updated counts
+- Cancer Genome Characterization Initiative
+
+  - Updated counts for dataset Burkitt Lymphoma Genome Sequencing Project
+- cBioPortal for Cancer Genomics
+
+  - **New Dataset** – MSK-IMPACT 50K Clinical Sequencing Cohort
+  - **New Dataset** – Pediatric Acute Myeloid Leukemia
+  - **New Dataset** – The Angiosarcoma Project - Count Me In
+  - **New Dataset** – Pediatric Low-Grade Glioma
+  - Updated dataset Ewing Sarcoma MSK
+- CCDI cBioPortal Cancer Data Explorer
+
+  - **New Dataset** – NCI-COG Pediatric MATCH Precision Medicine Clinical Trial
+  - Updated counts and reference for dataset Molecular Characterization Initiative 
+- Childhood Cancer Data Initiative (CCDI)
+
+  - **New Dataset** – Whole Genome Landscapes of Patient Derived Osteosarcoma Xenograft Models
+  - **New Dataset** – A Cohort of Hispanic Children with Acute Lymphoblastic Leukemia; Bloom Syndrome in a Mexican American Family with Rhabdomyosarcoma
+  - **New Dataset** – Single Cell RNA Sequencing of Metastatic Adrenocortical Carcinoma and Tumor-Free Tissue
+  - Updated dataset Molecular Characterization Initiative
+- Gene Expression Omnibus
+
+  - **New Dataset** – Acute myeloblastic leukemia cells response to all trans retinoic acid and valproic acid
+- NCTN Navigator
+
+  - Updated counts
+- NF Data Portal
+
+  - **New Dataset** – Processed RNA-seq STAR Salmon outputs
+  - **New Dataset** – Processed Somatic Variants - Strelka Pipeline
+  - **New Dataset** – Processed Somatic Genomic Variants - Mutect2 Pipeline
+  - Updated Clinical Trial Identifier for dataset ADVL1521 Omic Data Repository
+- PDX INSIGHTS
+
+  - Updated counts
+- Pediatric Malignancies: Inventory of DCEG Research
+
+  - o	Added Data Repository link and Clinical Trial Identifier for dataset Pediatric Proton and Photon Therapy Comparison Cohort
+- Pediatric MATCH
+
+  - Deleted Clinical Trial List link (non-functional)
+- Single-cell Pediatric Cancer Atlas
+
+  - Updated resource description
+  - Updated references for multiple datasets
+
+### General Site Updates
+
+- A standard warning banner for Government system access was added. 
+- Appendix A of the User Guide was updated to reflect resource update dates and add new resources.
+
+### Additional Support and Inquiries
+
+Users requiring any additional support or with any questions about the CCDC can contact the Childhood Cancer Data Initiative at    [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov)   . Please include a name and a reference to the CCDC with the submitted inquiry.
+
+| Property | Value |
+| --- | --- |
+| id | catalog_release_08312026 |
+| version | v1.5.10 |
+| slug | 75 new resources and even more new datasets |
+| contentType | Clinical,Genomics/Omics,Biospecimens,Imaging,Xenograft |
+
 # New data just in time for summer
 ### June 10, 2026 | Release Notes
 
