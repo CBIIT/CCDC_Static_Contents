@@ -331,7 +331,7 @@ Users requiring any additional support or with any questions about the CCDC can 
 | id | catalog_release_08312026 |
 | version | v1.5.10 |
 | slug | 75 new resources and even more new datasets |
-| contentType | Clinical,Genomics/Omics,Specimens,Imaging,Xenograft |
+| contentType | Clinical,Genomics/Omics,Imaging,Xenograft |
 
 # New data just in time for summer
 ### June 10, 2026 | Release Notes
