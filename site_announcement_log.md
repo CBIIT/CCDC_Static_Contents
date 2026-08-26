@@ -1,3 +1,338 @@
+# A late summer bloom of pediatric data resources
+### August 31, 2026 | Release Notes
+
+Version 1.5.10 of the Childhood Cancer Data Initiative Data Catalog includes over 70 new resources and 91 new datasets from new and existing resources. Additional changes to existing resources include updated counts, references, resource descriptions, clinical trial identifiers, dbGaP identifiers, data repository links, and clinical trial lists. The User Guide is current with version 1.5.10 updates.
+
+### Statistics at a Glance
+
+#### v1.5.10 Summary
+
+- **36th** Release
+- **541** Datasets
+- **164** Resources
+  - **25** Analytical Tools
+  - **9** Biorepositories
+  - **8** Catalogs
+  - **22** Data Repositories
+  - **5** Knowledgebases
+  - **32** Programs
+  - **3** Projects
+  - **60** Registries
+
+### Data Updates
+
+#### New Resources and Datasets
+
+**75**   new resources have been added.
+
+- African Cancer Registry Network
+
+  - **New Dataset** – AFCRN Database
+- Alaska Native Tumor Registry
+
+  - **New Dataset** – Cancer in Alaska Native People: 1969-2023
+- Australian Cancer Database
+
+  - **New Dataset** – Cancer Data in Australia 2025
+- Australian Childhood Cancer Registry
+
+  - **New Dataset** – Australian Childhood Cancer Registry 
+- Australian Particle Therapy Clinical Quality Registry
+
+  - **New Dataset** – Australian Particle Therapy Clinical Quality Registry
+- Austrian National Cancer Registry
+
+  - **New Dataset** – Cancer in Austria 2024
+ - California Cancer Registry
+
+   - **New Dataset** – California Cancer Registry
+- Cancer Survivor Program
+
+  - **New Dataset** – Yield of Urinalysis Screening in Pediatric Cancer Survivors
+- Cantonal Hospital Aarau
+
+  - **New Dataset** – Young Survivors at KSA: registry for standardised assessment of long-term and late-onset health events in survivors of childhood and adolescent cancer-a study protocol
+- Croatian Cancer Registry
+
+  - **New Dataset** – Croatian Cancer Registry
+- Cyprus Cancer Registry
+
+  - **New Dataset** – Cyprus Cancer Registry 2016
+- Delhi Cancer Registry
+
+  - **New Dataset** – Delhi Cancer Registry
+- Dutch Childhood Cancer Survivor Study
+
+  - **New Dataset** – Dutch Childhood Cancer Survivor Study
+- Estonian Cancer Registry
+
+  - **New Dataset** – Estonian Cancer Registry
+- EUROpean CAncer Registry
+
+  - **New Dataset** – Eurocare 5
+- European Network of Cancer Registries
+
+  - **New Dataset** – European Network of Cancer Registries
+- Finnish Cancer Registry
+
+  - **New Dataset** – Finnish Cancer Registry
+- French National Registry of Childhood Cancers
+
+  - **New Dataset** – French National Registry of Childhood Cancers
+- Georgia Comprehensive Cancer Registry
+
+  - **New Dataset** – Childhood Cancer Incidence Rates for the State of Georgia, 2014-2023
+- German Childhood Cancer Registry
+
+  - **New Dataset** – German Childhood Cancer Registry
+- Girona Population Cancer Registry
+
+  - **New Dataset** – Incidence and survival of central nervous system tumors in childhood and adolescence in Girona (Spain) 1990-2013
+- Gliomatosis Cerebri Registry
+
+  - **New Dataset** – Gliomatosis Cerebri Registry
+- Global nLPHL One Working Group
+
+  - **New Dataset** – Global nLPHL One Working Group
+- Greater Bay Area Cancer Registry
+
+  - **New Dataset** – Greater Bay Area Cancer Registry
+- Hematology Cancer Consortium
+
+  - **New Dataset** – Indian Acute Leukaemia Research Database
+- HIT-MED
+
+  - **New Dataset** – HIT-MED
+- Hodgkin Lymphoma International Study for Individual Care
+
+  - **New Dataset** – Hodgkin Lymphoma International Study for Individual Care
+- Hungarian Pediatric Oncology Network
+
+  - **New Dataset** – Hungarian Childhood Cancer Registry
+- INdividualized therapy FOr high-Risk childhood Malignancies
+
+  - **New Dataset** – The Pediatric Precision Oncology INFORM Registry: Clinical Outcome and Benefit for Patients with Very High-Evidence Targets
+- The International Pleuropulmonary Blastoma/DICER1 Registry
+
+  - **New Dataset** – The International Pleuropulmonary Blastoma/DICER1 Registry
+- Iranian National Population-based Cancer Registry
+
+  - **New Dataset** – Epidemiology and geographical patterns of common childhood cancers in Iran: Evidence from the National Cancer Registry
+- Iraqi Ministry of Health
+
+  - **New Dataset** – Iraqi Cancer Registry 2021
+- Israel Cancer Registry
+
+  - **New Dataset** – Israel Cancer Registry
+- Italian Association for the fight against Neuroblastoma ETS
+
+  - **New Dataset** – Italian Neuroblastoma Registry
+- Italian Association of Cancer Registries
+
+  - **New Dataset** – Cancer Numbers in Italy 2023
+- Italian Association of Pediatric Hematology, Oncology, and Science
+
+  - **New Dataset** – Italian Association of Pediatric Hematology, Oncology, and Science
+- Japan Neurosurgical Society
+
+  - **New Dataset** – Brain Tumor Registry of Japan (2001-2004)
+- King Hussein Cancer Center
+
+  - **New Dataset** – KHCC Cancer Registry
+- Korea National Cancer Center
+
+  - **New Dataset** – Cancer Incidence and Survival among Adolescents and Young Adults in Korea: An Update for 2016
+- LOGGIC Core BioClinical Database
+
+  - **New Dataset** – LOGGIC Core BioClinical Database
+- Malignant Endocrine Tumors Registry
+
+  - **New Dataset** – Malignant Endocrine Tumors Registry
+- Malta National Cancer Registry
+
+  - **New Dataset** – Malta National Cancer Registry Report 2025
+- Massachusetts Cancer Registry
+
+  - **New Dataset** – Cancer Incidence and Mortality in Massachusetts 2017-2021
+- Montana Central Tumor Registry
+
+  - **New Dataset** – Montana Central Tumor Registry Annual Report 2025
+- National Cancer Database
+
+  - **New Dataset** – National Cancer Database
+- National Cancer Registry Ireland
+
+  - **New Dataset** – Annual Statistical Report 2024
+- National Cancer Registry of Japan
+
+  - **New Dataset** – National Cancer Registry of Japan
+- National Cancer Registry of Ukraine
+
+  - **New Dataset** – National Cancer Registry of Ukraine
+- National Network for the Management of Rare Peritoneal Tumors
+
+  - **New Dataset** – National Network for the Management of Rare Peritoneal Tumors
+- Netherlands Cancer Registry
+
+  - **New Dataset** – Netherlands Cancer Registry
+- Neurofibromatosis Registry
+
+  - **New Dataset** – Characterization and utilization of an international neurofibromatosis web-based, patient-entered registry: An observational study
+- New Zealand Children's Cancer Registry
+
+  - **New Dataset** – NZCCR Snapshot 2021
+- The Nordic Society of Paediatric Haematology and Oncology Biobank
+
+  - **New Dataset** – NOPHO Leukemia Biobank
+- North Carolina Central Cancer Registry
+
+  - **New Dataset** – 2022 Cancer Incidence and Mortality in North Carolina
+- Northern Ireland Cancer Registry
+
+  - **New Dataset** – All cancers (ex NMSC) among children 1993-2023
+  - **New Dataset** – All cancers (ex NMSC) among young adults 1993-2023
+- Norwegian Institute of Public Health
+
+  - **New Dataset** – Cancer In Norway 2024
+- Osaka Cancer Registry
+
+  - **New Dataset** – Osaka Cancer Registry
+- Pediatric Oncology Group of Ontario Networked Information System
+
+  - **New Dataset** – Pediatric Oncology Group of Ontario Networked Information System 2020
+- PMGH Childhood Cancer Registry
+
+  - **New Dataset** – PMGH Childhood Cancer Registry
+- Portugal National Cancer Registry
+
+  - **New Dataset** – National Cancer Registry 2010
+- Saudi Health Council National Cancer Center
+
+  - **New Dataset** – Saudi Cancer Registry 2024
+- Secured Access to Innovative Medicines for Children with Cancer
+
+  - **New Dataset** – SACHA-France
+- Slovenian Cancer Registry
+
+  - **New Dataset** – Cancer in Slovenia 2022
+- South African National Cancer Registry
+
+  - **New Dataset** – Childhood Cancer Registry 2021 Annual Report
+- Spanish Academy of Dermatology and Venereology
+
+  - **New Dataset** – Primary cutaneous lymphomas in children: A prospective study from the Spanish Academy of Dermatology and Venereology (AEDV) Primary Cutaneous Lymphoma Registry
+- Spanish Network of Cancer Registries
+
+  - **New Dataset** – Spanish Network of Cancer Registries
+- Sweden National Cancer Registry
+
+  - **New Dataset** – Cancer Report 2024
+- Swiss Childhood Cancer Registry
+
+  - **New Dataset** – Swiss Childhood Cancer Registry
+- Taiwan Cancer Registry
+
+  - **New Dataset** – Taiwan Cancer Registry
+- Tanzania - Mwanza Cancer Registry
+
+  - **New Dataset** – Cancer incidence and treatment utilization patterns at a regional cancer center in Tanzania from 2008-2016: Initial report of 2,772 cases
+- Tasmanian Cancer Registry
+
+  - **New Dataset** – Tasmanian Cancer Registry
+- Texas Cancer Registry
+
+  - **New Dataset** – Adolescent and Young Adult (AYA) Cancer, Texas 2019-2023
+  - **New Dataset** – Childhood and Adolescent Cancer, Texas 2014-2023
+- Utah Cancer Registry
+
+  - **New Dataset** – Cancer in Utah: Incidence and Mortality Statistics through 2021
+- Yorkshire Specialist Register of Cancer in Children and Young People
+
+  - **New Dataset** – Data Resource Profile: Yorkshire Specialist Register of Cancer in Children and Young People (Yorkshire Register)
+- Zurich Cancer Registry
+
+  - **New Dataset** – Zurich Cancer Registry
+
+
+#### Existing Participating Resources and Datasets
+
+**14**   existing resources have been updated with additional data and information.
+
+- Cancer Epidemiology Descriptive Cohort Database
+
+  - Updated counts
+- Cancer Genome Characterization Initiative
+
+  - Updated counts for dataset Burkitt Lymphoma Genome Sequencing Project
+- cBioPortal for Cancer Genomics
+
+  - **New Dataset** – MSK-IMPACT 50K Clinical Sequencing Cohort
+  - **New Dataset** – Pediatric Acute Myeloid Leukemia
+  - **New Dataset** – The Angiosarcoma Project - Count Me In
+  - **New Dataset** – Pediatric Low-Grade Glioma
+  - Updated dataset Ewing Sarcoma MSK
+- CCDI cBioPortal Cancer Data Explorer
+
+  - **New Dataset** – NCI-COG Pediatric MATCH Precision Medicine Clinical Trial
+  - Updated counts and reference for dataset Molecular Characterization Initiative 
+- Childhood Cancer Data Initiative (CCDI)
+
+  - **New Dataset** – Whole Genome Landscapes of Patient Derived Osteosarcoma Xenograft Models
+  - **New Dataset** – A Cohort of Hispanic Children with Acute Lymphoblastic Leukemia; Bloom Syndrome in a Mexican American Family with Rhabdomyosarcoma
+  - **New Dataset** – Single Cell RNA Sequencing of Metastatic Adrenocortical Carcinoma and Tumor-Free Tissue
+  - Updated dataset Molecular Characterization Initiative
+- Gene Expression Omnibus
+
+  - **New Dataset** – Acute myeloblastic leukemia cells response to all trans retinoic acid and valproic acid
+- NCTN Navigator
+
+  - Updated counts
+- NF Data Portal
+
+  - **New Dataset** – Processed RNA-seq STAR Salmon outputs
+  - **New Dataset** – Processed Somatic Variants - Strelka Pipeline
+  - **New Dataset** – Processed Somatic Genomic Variants - Mutect2 Pipeline
+  - Updated Clinical Trial Identifier for dataset ADVL1521 Omic Data Repository
+- PDX INSIGHTS
+
+  - Updated counts
+- Pediatric Malignancies: Inventory of DCEG Research
+
+  - o	Added Data Repository link and Clinical Trial Identifier for dataset Pediatric Proton and Photon Therapy Comparison Cohort
+- Pediatric MATCH
+
+  - Deleted Clinical Trial List link (non-functional)
+- Single-cell Pediatric Cancer Atlas
+
+  - Updated resource description
+  - Updated references for multiple datasets
+- The Cancer Imaging Archive
+
+  - **New Dataset** – A Normative Dataset of Healthy Pediatric Cranial Computed Tomography (CT) Images
+  - Updated dbGaP identifier for dataset Risk-Based Therapy in Treating Younger Patients With Newly Diagnosed Liver Cancer (AHEP0731)
+  - Updated dbGaP identifier for dataset Annotations for Risk-Based Therapy in Treating Younger Patients With Newly Diagnosed Liver Cancer (AHEP0731-Tumor-Annotations)
+- World Health Organization - International Agency for Research on Cancer
+
+  - **New Dataset** – Northern Africa, Central and Western Asia Hub
+  - Updated counts for dataset Childhood Cancer and Leukemia International Consortium
+
+
+### General Site Updates
+
+- A standard warning banner for Government system access was added. 
+- Appendix A of the User Guide was updated to reflect resource update dates and add new resources.
+
+### Additional Support and Inquiries
+
+Users requiring any additional support or with any questions about the CCDC can contact the Childhood Cancer Data Initiative at    [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov)   . Please include a name and a reference to the CCDC with the submitted inquiry.
+
+| Property | Value |
+| --- | --- |
+| id | catalog_release_08312026 |
+| version | v1.5.10 |
+| slug | 75 new resources and even more new datasets |
+| contentType | Clinical,Genomics/Omics,Imaging,Xenograft |
+
 # New data just in time for summer
 ### June 10, 2026 | Release Notes
 
