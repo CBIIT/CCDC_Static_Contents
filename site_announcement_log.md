@@ -1,4 +1,4 @@
-# A late summer bloom of pediatric data resources
+# A late summer bloom of pediatric data
 ### August 31, 2026 | Release Notes
 
 Version 1.5.10 of the Childhood Cancer Data Initiative Data Catalog includes over 70 new resources and 91 new datasets from new and existing resources. Additional changes to existing resources include updated counts, references, resource descriptions, clinical trial identifiers, dbGaP identifiers, data repository links, and clinical trial lists. The User Guide is current with version 1.5.10 updates.
