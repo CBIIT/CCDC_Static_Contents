@@ -420,7 +420,7 @@ Version 1.5.10 of the Childhood Cancer Data Initiative Data Catalog includes ove
   - Updated counts
 - Pediatric Malignancies: Inventory of DCEG Research
 
-  - o	Added Data Repository link and Clinical Trial Identifier for dataset Pediatric Proton and Photon Therapy Comparison Cohort
+  - Added Data Repository link and Clinical Trial Identifier for dataset Pediatric Proton and Photon Therapy Comparison Cohort
 - Pediatric MATCH
 
   - Deleted Clinical Trial List link (non-functional)
