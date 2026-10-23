@@ -1,4 +1,4 @@
-# A fresh fall harvest of the latest pediatric datasets
+# A fresh harvest of the latest pediatric datasets
 ### October 29, 2026 | Release Notes
 
 Version 1.5.11 of the Childhood Cancer Data Initiative Data Catalog adds 16new datasets  and one new resource: the Zero Childhood Cancer registry. Additional changes of note include the updated resource name for Innovative Therapies for Children with Cancer (ITCC) to allow for multiple datasets and the removal of the Molecular Targets Platform (MTP) following its recent retirement. The User Guide is current with version 1.5.11 updates.
