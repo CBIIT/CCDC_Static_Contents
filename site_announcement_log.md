@@ -1,3 +1,125 @@
+# A fresh harvest of the latest pediatric datasets
+### October 29, 2026 | Release Notes
+
+Version 1.5.11 of the Childhood Cancer Data Initiative Data Catalog adds 16new datasets  and one new resource: the Zero Childhood Cancer registry. Additional changes of note include the updated resource name for Innovative Therapies for Children with Cancer (ITCC) to allow for multiple datasets and the removal of the Molecular Targets Platform (MTP) following its recent retirement. The User Guide is current with version 1.5.11 updates.
+
+### Statistics at a Glance
+
+#### v1.5.11 Summary
+
+- **37th** Release
+- **557** Datasets
+- **164** Resources
+  - **25** Analytical Tools
+  - **9** Biorepositories
+  - **8** Catalogs
+  - **22** Data Repositories
+  - **4** Knowledgebases
+  - **32** Programs
+  - **3** Projects
+  - **61** Registries
+
+### Data Updates
+
+#### New Resources and Datasets
+
+**1**   new resource has been added.
+
+- Zero Childhood Cancer 
+
+  - **New Dataset** – ZERO Database
+
+
+#### Existing Participating Resources and Datasets
+
+**14**   existing resources have been updated with additional data and information.
+
+- CCDI cBioPortal Cancer Data Explorer
+  
+  - **New Dataset** – CCSS Therapy-Related Mutational Signatures in Subsequent Neoplasms
+  - **New Dataset** – Genomic Sequencing of Pediatric Cancer Cases (CMRI/KUCC)
+  - Updated dataset Molecular Characterization Initiative
+
+- Childhood Cancer Data Initiative (CCDI)
+
+  - **New Dataset** – Childhood Cancer Data Initiative (CCDI): Frameshift Mutation Profiling of Constitutional Mismatch Repair Deficiency Syndrome Patients
+  - **New Dataset** – Kids First: Genomic Analysis of Pediatric Rhabdomyosarcoma
+  - **New Dataset** – Kids First: Childhood Cancer Data Initiative (CCDI) - Discovering the Timing and Origins of Bone and Soft Tissue Cancers
+
+- The database of Genotypes and Phenotypes (dbGaP)
+
+  - **New Dataset** – CIDR: Understanding the Increased Risk of Childhood Acute Lymphoblastic Leukemia in Latinos
+  - **New Dataset** – Longitudinal Single-Cell RNA Sequencing Reveals Evolution of Micro- and Macro-States in Chronic Myeloid Leukemia
+  - **New Dataset** – NCTN: Risk-Stratified Therapy for Acute Myeloid Leukemia in Down Syndrome (AAML1531)
+  - **New Dataset** – NCTN: Phase III Randomized Trial of Single vs. Tandem Myeloablative Consolidation Therapy for High-Risk Neuroblastoma (ANBL0532)
+  - **New Dataset** – NCTN: Treatment of Atypical Teratoid/Rhabdoid Tumors (AT/RT) of the Central Nervous System with Surgery, Intensive Chemotherapy, and 3-D Conformal Radiation (ACNS0333)
+  - **New Dataset** – NCTN: Response- and Biology-Based Therapy for Intermediate-Risk Neuroblastoma (ANBL0531)
+  - **New Dataset** – NCTN: Treatment for Very Low and Standard Risk Favorable Histology Wilms Tumor (AREN0532)
+  - **New Dataset** – NCTN: A Non-Randomized Phase III Study of Response Adapted Therapy for the Treatment of Children with Newly Diagnosed High Risk Hodgkin Lymphoma (AHOD0831)
+
+- Genomic Data Commons (GDC)
+
+  - **New Dataset** – Applied Proteogenomics Organizational Learning and Outcomes (APOLLO)
+  - Updated dataset Clinical Proteomic Tumor Analysis Consortium (CPTAC)
+    
+- Human Cancer Models Initiative
+
+  - Updated counts
+    
+- Imaging Data Commons (IDC)
+
+  - Updated dataset CCDI Molecular Characterization Initiative
+    
+- Innovative Therapies for Children with Cancer (ITCC)
+
+  - **New Dataset** – ITCC Pediatric Cancer Data Portal
+  - Updated digest and program name from “Innovative Therapies for Children with Cancer Paediatric Preclinical Proof-of-Concept Platform (ITCC-P4)” to “Innovative Therapies for Children with Cancer” to reflect inclusion of multiple datasets
+    
+- Molecular Targets Platform (MTP)
+
+  - Removed following resource retirement
+    
+- Norwegian Childhood Cancer Biobank (NCCB)
+
+  - Added publication
+    
+- St. Jude Cloud
+
+  - **New Dataset** – Pediatric Brain Tumors: Patient-derived orthotopic xenografts and Tumoroid Models
+  - Updated clinical trial identifier for dataset Genomes 4 Kids
+    
+- Swedish Childhood Tumor Biobank
+
+  - Added data elements
+
+- The Cancer Imaging Archive (TCIA)
+
+  - Added dbGaP study identifiers to datasets Radiation Therapy, Amifostine, and Chemotherapy in Treating Young Patients With Newly Diagnosed Nasopharyngeal Cancer (ARAR0331) and Annotations for Radiation Therapy, Amifostine, and Chemotherapy in Treating Young Patients With Newly Diagnosed Nasopharyngeal Cancer Collection (ARAR0331-Tumor-Annotations)
+
+- Victorian Paediatric Cancer Consortium (VPCC)
+
+   - Updated counts
+
+- VIVO Biobank
+
+   - Updated counts
+
+### General Site Updates
+
+- Appendix A of the User Guide was updated to reflect resource addition, removal, and update dates.
+
+### Additional Support and Inquiries
+
+Users requiring any additional support or with any questions about the CCDC can contact the Childhood Cancer Data Initiative at    [NCIChildhoodCancerDataInitiative@mail.nih.gov](mailto:NCIChildhoodCancerDataInitiative@mail.nih.gov)   . Please include a name and a reference to the CCDC with the submitted inquiry.
+
+| Property | Value |
+| --- | --- |
+| id | catalog_release_10292026 |
+| version | v1.5.11 |
+| slug | 16 new datasets and a new cancer registry |
+| contentType | Clinical,Genomics/Omics,Imaging |
+
+
 # A late summer bloom of pediatric data
 ### August 31, 2026 | Release Notes
 
@@ -298,7 +420,7 @@ Version 1.5.10 of the Childhood Cancer Data Initiative Data Catalog includes ove
   - Updated counts
 - Pediatric Malignancies: Inventory of DCEG Research
 
-  - o	Added Data Repository link and Clinical Trial Identifier for dataset Pediatric Proton and Photon Therapy Comparison Cohort
+  - Added Data Repository link and Clinical Trial Identifier for dataset Pediatric Proton and Photon Therapy Comparison Cohort
 - Pediatric MATCH
 
   - Deleted Clinical Trial List link (non-functional)
